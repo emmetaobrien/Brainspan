@@ -6,6 +6,8 @@ This dataset contains links to the following files:
 
 Downloadable archive files containing normalized expression values and meta-data (as displayed in heatmap) for analysis:
 
+| | |
+|-|-|
 |RNA-Seq Gencode v10 summarized to exons|exons_matrix_csv.zip|
 |RNA-Seq Gencode v10 summarized to genes|genes_matrix_csv.zip|
 |Exon microarray summarized to probe sets|exon_array_matrix_csv.zip|
@@ -15,6 +17,8 @@ Downloadable archive files containing normalized expression values and meta-data
 
 Downloadable archive files containing normalized expression values for each brain and meta-data for analysis:
 
+| | |
+|-|-|
 |H376.IIIA.02, male, 15 pcw|lmd_matrix_12840.zip|
 |H376.IIIB.02. female, 16 pcw|lmd_matrix_14751.zip|
 |H376.IV.02, female, 21 pcw|lmd_matrix_12566.zip|
@@ -25,6 +29,8 @@ Downloadable archive files containing normalized expression values for each brai
 
 3-D expert annotation of 22 major fiber tracts across 8 developmental stages accompanied by annotation of the Developmental Transcriptome survey sampling sites.
 
+| | | |
+|-|-|-|
 |14 pcw annotation|fiber tracts|Stage_3A_14_pcw_Fiber_tracts.zip|
 |14 pcw annotation|structures|Stage_3A_14_pcw_Transcriptome_structures.zip|
 |17 pcw annotation|fiber tracts|Stage_3B_17_pcw_Fiber_tracts.zip|

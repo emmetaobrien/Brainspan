@@ -1,0 +1,1311 @@
+barcode,array_id,rna_in_array,rna_in_labeling_reaction,tissue_sample_id,structure,rna_integrity_number,donor,download_link
+252491511152_2_1,121063611,600,5,12837,layer IIIu of area 35c,,H376.IV.02,/api/v2/well_known_file_download/149124173
+252491511269_2_1,147803970,600,5,127424205,inner SZ in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815670
+252491511322_2_4,147806916,600,5,127434771,olfactory bulb,,H376.IIIB.02,/api/v2/well_known_file_download/147825869
+252491511212_1_4,147803994,600,5,127401365,red nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815042
+252491511175_1_2,127366691,600,5,113221597,inner CP in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206543
+252491511266_2_2,147803600,600,5,127407360,SP in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815624
+252491511212_2_4,147804108,600,5,113221975,peripheral portion of GPi,,H376.IIIA.02,/api/v2/well_known_file_download/147815050
+252491511090_1_1,127366434,600,5,113221385,IZ in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206216
+252491511155_1_3,121063599,600,5,12833,medial parabrachial nucleus,,H376.IV.02,/api/v2/well_known_file_download/149124203
+252491511181_1_4,114245718,600,5,12116,inner SZ in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059701
+252491511272_2_3,147806606,600,5,127433768,"substantia nigra, reticular part",,H376.IIIB.02,/api/v2/well_known_file_download/147820293
+252491511205_1_2,147805078,600,5,127407332,facial nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817447
+252491511168_2_1,114245623,600,5,12075,parafascicular nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059779
+252491511214_1_3,147803094,600,5,113221815,medial septal nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815072
+252491510955_1_4,146036901,600,5,113221436,caudal ganglionic eminence,,H376.IV.03,/api/v2/well_known_file_download/146039579
+252491511213_1_3,147804271,600,5,127408509,basolateral nucleus (basal nucleus),,H376.IIIA.02,/api/v2/well_known_file_download/147815056
+252491511289_1_2,147807907,600,5,127434667,upper (rostral) rhombic lip,,H376.IIIB.02,/api/v2/well_known_file_download/147825559
+252491511252_2_1,147805812,600,5,127409063,SP in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820156
+252491511317_2_2,147807598,600,5,127434408,outer SZ in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825785
+252491511322_2_3,147807592,600,5,127434408,outer SZ in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825867
+252491511204_2_2,147804945,600,5,127424258,SP in midlateral extrastriate cortex (area 19),,H376.IIIA.02,/api/v2/well_known_file_download/147817439
+252491511057_1_4,121080583,600,5,113220523,SG in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195948
+252491511230_1_2,147806317,600,5,127426823,ventral medial nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819945
+252491511158_2_2,114245806,600,5,12143,lateral nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059863
+252491510933_2_3,147804987,600,5,127408926,outer CP in dorsomedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817217
+252491510954_1_4,146036986,600,5,11993,SP in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/146038897
+252491511166_2_2,121063388,600,5,12131,ventral lateral nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/149124299
+252491511164_1_3,114245466,600,5,12131,ventral lateral nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059837
+252491511312_1_3,147807728,600,5,127434514,raphe magnus nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825705
+252491511473_1_2,147807963,600,5,127434698,inner CP in dorsomedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825931
+252491511135_1_2,121063954,600,5,12952,inner CP in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123859
+252491511196_1_2,147805198,600,5,127407484,caudal prosubiculum,,H376.IIIA.02,/api/v2/well_known_file_download/147817367
+252491511052_1_2,121081310,600,5,113220695,IZ in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195873
+252491511324_1_3,147806904,600,5,127374039,inner CP in dorsolateral prefrontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825891
+252491511259_1_2,147803322,600,5,113221894,layer I of piriform cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815503
+252491511104_2_1,147805474,600,5,127402905,inner CP in caudal midinferior temporal cortex (area TF),,H376.IIIA.02,/api/v2/well_known_file_download/147817245
+252491511315_2_1,147807299,600,5,127433876,granular layer of rostral dentate gyrus,,H376.IIIB.02,/api/v2/well_known_file_download/147825751
+252491511054_1_1,121081182,600,5,113220666,IZ in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149195904
+252491511108_1_2,127366084,600,5,113220953,MZ in granular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149206339
+252491511275_1_2,147805866,600,5,127409101,inner CP in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820332
+252491511280_2_4,147805860,600,5,127409101,inner CP in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820367
+252491511199_2_2,114245790,600,5,12055,IZ in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059937
+252491511107_2_2,147805536,600,5,113221988,inner CP in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817295
+252491511171_2_4,114245602,600,5,12068,layer III of rostral entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059723
+252491511262_1_1,147803962,600,5,127401200,inner SZ in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815550
+252491511152_1_2,121063602,600,5,12834,nucleus coeruleus,,H376.IV.02,/api/v2/well_known_file_download/149124167
+252491511107_2_3,147805336,600,5,127401284,outer CP in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817297
+252491511107_1_2,147804645,600,5,13375,outer SZ in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817287
+252491511325_2_3,147805800,600,5,127409133,inner SZ in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820451
+252491511265_2_4,147802966,600,5,13379,dorsorostral division of MFC (area 32),,H376.IIIA.02,/api/v2/well_known_file_download/147815612
+252491511214_2_4,147804034,600,5,127402580,inner SZ in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815082
+252491511142_1_1,121063867,600,5,12922,SZ in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124018
+252491511264_1_2,147803150,600,5,113221855,medial portion of the shell,,H376.IIIA.02,/api/v2/well_known_file_download/147815584
+252491511472_1_3,147807758,600,5,127434522,ventricular (matrix) zone of pons,,H376.IIIB.02,/api/v2/well_known_file_download/147825917
+252491511311_2_2,147807159,600,5,127434788,anteroventral nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147825695
+252491511194_2_1,147804663,600,5,13378,rostral division of OFCi (area 11),,H376.IIIA.02,/api/v2/well_known_file_download/147817341
+252491511205_2_2,147805608,600,5,127408493,SP in rostral midinferior temporal cortex (area 36),,H376.IIIA.02,/api/v2/well_known_file_download/147817455
+252491511288_2_4,147808015,600,5,127434725,inner SZ in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825555
+252491511319_1_4,147808099,600,5,127434761,outer plexiform zone in extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825813
+252491511161_2_2,121063827,600,5,12905,CP in retrosplenial cortex,,H376.IV.02,/api/v2/well_known_file_download/149124257
+252491511265_2_2,147804207,600,5,113222028,anteroventral nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147815608
+252491511251_1_3,147806291,600,5,127426799,magnocellular division of VA,,H376.IIIB.02,/api/v2/well_known_file_download/147820097
+252491511196_1_3,147805186,600,5,127408487,pontobulbar body,,H376.IIIA.02,/api/v2/well_known_file_download/147817369
+252491511192_2_4,147805180,600,5,127408487,pontobulbar body,,H376.IIIA.02,/api/v2/well_known_file_download/147817315
+252491511211_2_4,147804183,600,5,113222016,inner SZ in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815034
+252491511257_2_2,147803681,600,5,127407439,upper (rostral) rhombic lip,,H376.IIIA.02,/api/v2/well_known_file_download/147815478
+252491511175_2_3,127366252,600,5,113221076,outer CP in primary auditory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206553
+252491511100_1_4,127365590,600,5,12883,outer CP in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149203516
+252491511145_1_3,121063793,600,5,12883,outer CP in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124054
+252491511145_1_2,121063791,600,5,12883,outer CP in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124052
+252491511184_2_3,114245442,600,5,12046,internal segment of globus pallidus,,H376.IV.02,/api/v2/well_known_file_download/121059589
+252491511252_2_2,147805744,600,5,127374031,IZ in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820163
+252491511080_1_4,127366104,600,5,113220959,inner CP in granular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149206092
+252491511079_1_3,127366681,600,5,113221543,outer CP in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206069
+252491510992_1_4,121080397,600,5,113220493,MZ in dysgranular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149195773
+252491511284_2_3,147806662,600,5,127433866,inner CP in caudal perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820429
+252491511170_1_4,114245551,600,5,12146,MZ in rostral perirhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059745
+252491511283_2_3,147806122,600,5,127426581,nucleus subputaminalis,,H376.IIIB.02,/api/v2/well_known_file_download/147820413
+252491511193_1_2,147805174,600,5,127407829,intercalated nucleus of medulla,,H376.IIIA.02,/api/v2/well_known_file_download/147817319
+252491511263_2_4,147803274,600,5,113221782,LGE-VZ border region,,H376.IIIA.02,/api/v2/well_known_file_download/147815580
+252491511476_2_2,147807943,600,5,127434677,outer CP in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825987
+252491511193_1_1,147805282,600,5,127407624,SP in caudal subicular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817317
+252491511313_2_3,147807018,600,5,127409986,VZ in septal region,,H376.IIIB.02,/api/v2/well_known_file_download/147825729
+252491511273_1_3,147805920,600,5,127409986,VZ in septal region,,H376.IIIB.02,/api/v2/well_known_file_download/147820302
+252491511110_1_2,127366282,600,5,113221086,SP in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206442
+252491511474_2_2,147807652,600,5,127434463,CP in retrosplenial cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825955
+252491511270_2_2,147806429,600,5,127426936,ventral lateral nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147820258
+252491511251_1_4,147806526,600,5,127427002,outer CP in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820102
+252491511170_2_3,114245560,600,5,12149,SP in perirhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059739
+252491511101_1_4,121081054,600,5,113220618,"lateral hypothalamic area, tuberal part",,H376.IV.03,/api/v2/well_known_file_download/149196003
+252491511140_2_3,121063475,600,5,12806,molecular layer of rostral subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124014
+252491511230_2_1,147806656,600,5,127433864,outer CP in caudal perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820005
+252491511204_1_4,147805420,600,5,127401342,VZ in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817435
+252491511227_1_4,147806215,600,5,127426739,anterodorsal nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819880
+252491511272_2_4,147806626,600,5,127433774,layer I of caudal entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820295
+252491511194_1_2,147805456,600,5,127401082,medial nucleus of pulvinar,,H376.IIIA.02,/api/v2/well_known_file_download/147817335
+252491511137_2_4,121063916,600,5,12937,outer CP in ventromedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123967
+252491511257_1_3,147804156,600,5,113221998,SP in granular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815472
+252491511166_1_2,114245647,600,5,12083,"periaqueductal gray substance, ventral portion",,H376.IV.02,/api/v2/well_known_file_download/121059803
+252491510930_2_4,147804669,600,4,13388,IZ in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817171
+252491510930_1_4,147805632,600,5,127408515,lateral nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817163
+252491511130_1_3,121063521,600,5,12814,layer VI of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123877
+252491511181_1_1,114245709,600,5,12113,SP in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059707
+252491510928_1_4,147805108,600,5,127407356,inner CP in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817147
+252491511107_2_1,147805102,600,5,127407356,inner CP in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817293
+252491511269_1_4,147803705,600,5,127407462,medial vestibular nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815668
+252491511258_2_1,147802886,600,5,13345,inner CP in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815492
+252491511194_2_3,147805620,600,5,127408511,basomedial nucleus (accessory basal nucleus),,H376.IIIA.02,/api/v2/well_known_file_download/147817345
+252491511158_1_2,114245784,600,5,12137,SG in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059869
+252491511260_1_2,147804247,600,5,127408489,outer CP in (rostral) midinferior temporal cortex (area 36),,H376.IIIA.02,/api/v2/well_known_file_download/147815519
+252491511052_1_1,121081191,600,5,113220668,SZ in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149195871
+252491511196_1_4,147805530,600,5,113221971,supraoptic nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817371
+252491511097_2_1,127366619,600,5,113221525,MZ in midlateral extrastriate cortex (area 19),,H376.IV.03,/api/v2/well_known_file_download/149206289
+252491511139_1_2,121063498,600,5,12809,layer I of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123988
+252491511136_2_2,121063942,600,5,12948,SG in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123947
+252491511156_1_3,121063507,600,5,12810,layer II of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124219
+252491511149_2_4,121063707,600,5,12865,outer CP in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124131
+252491511149_2_3,121063705,600,5,12865,outer CP in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124129
+252491511312_2_2,147807165,600,5,127426801,caudal subdivision of paraventricular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825711
+252491511196_2_2,147805378,600,5,127401332,IZ in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817375
+252491511475_1_4,147806894,600,5,127374035,inner SZ in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825967
+252491511314_1_4,147807510,600,5,127434367,IZ in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825739
+252491511268_1_3,147803012,600,5,13389,outer SZ in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815650
+252491511321_1_1,147806910,600,5,127374096,SP in dorsolateral prefrontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825839
+252491511283_2_2,147806728,600,5,127434204,caudal ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147820411
+252491511201_2_2,114245752,600,5,12010,head of caudate,,H376.IV.02,/api/v2/well_known_file_download/121059953
+252491510931_2_1,147805252,600,5,127407521,outer SZ in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817181
+252491510933_2_4,147805246,600,5,127407521,outer SZ in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817219
+252491511149_1_1,121063681,600,5,12859,outer CP in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124115
+252491511087_1_3,127366645,600,5,113221533,IZ in midlateral extrastriate cortex (area 19),,H376.IV.03,/api/v2/well_known_file_download/149206106
+252491511079_1_1,127365996,600,5,113220503,nucleus of diagonal band,,H376.IV.03,/api/v2/well_known_file_download/149206062
+252491511056_1_1,121080517,600,5,113220503,nucleus of diagonal band,,H376.IV.03,/api/v2/well_known_file_download/149195928
+252491511274_2_3,147806209,600,5,127426727,SP in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820326
+252491511154_1_1,121081344,600,5,113220703,Intercalated nucleus of amygdala,,H376.IV.03,/api/v2/well_known_file_download/149196049
+252491511325_1_1,147806674,600,5,127433874,dorsal lateral geniculate nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820439
+252491511193_2_4,147805120,600,5,127407377,outer SZ in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817331
+252491511130_1_4,121063615,600,5,12838,layer V of area 35c,,H376.IV.02,/api/v2/well_known_file_download/149123875
+252491511195_2_3,147804999,600,5,127408934,IZ in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817361
+252491511191_1_1,114245267,600,5,11980,SP in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059919
+252491510955_2_4,146036865,600,5,113248011,VZ in postamygdaloid region,,H376.IV.03,/api/v2/well_known_file_download/146039587
+252491510956_1_2,146036733,600,5,12970,inner SZ in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/146039591
+252491511202_2_1,147804993,600,5,127408928,inner CP in dorsomedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817421
+252491511090_1_4,127366176,600,5,113221035,ventral posterior lateral nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206229
+252491511213_2_3,147803778,600,5,127407492,outer CP in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815064
+252491511315_2_4,147807782,600,5,127434584,paravermis of cerebellum,,H376.IIIB.02,/api/v2/well_known_file_download/147825757
+252491510954_2_4,146036889,600,5,113221049,MZ in superolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039571
+252491511450_1_3,156438210,600,5,127434588,prepositus hypoglossal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887125
+252491511476_2_1,147807798,600,5,127434588,prepositus hypoglossal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825985
+252491511100_2_3,127365598,600,5,12887,stratum pyramidale of caudal CA3,,H376.IV.02,/api/v2/well_known_file_download/149203520
+252491511147_2_1,121063745,600,5,12887,stratum pyramidale of caudal CA3,,H376.IV.02,/api/v2/well_known_file_download/149124091
+252491511055_1_2,121080444,600,5,113220499,SP in dysgranular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149195916
+252491511138_2_2,121063556,600,5,12824,MZ in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123980
+252491511260_2_3,147803616,600,5,127407379,inner SZ in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815530
+252491511260_1_4,147803572,600,5,127407348,MZ in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815523
+252491511097_2_2,127366342,600,5,113221119,inner SZ in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206307
+252491511321_2_4,147807106,600,5,127426719,MZ in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825853
+252491511473_2_1,147807706,600,5,127434505,medial parabrachial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825937
+252491511322_1_4,147807979,600,5,127434704,SP in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825861
+252491510927_1_3,147804981,600,5,127408922,outer CP in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817129
+252491511255_1_3,147803331,600,5,113221908,layer II of piriform cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815440
+252491511263_2_2,147803834,600,5,127408518,tail of caudate,,H376.IIIA.02,/api/v2/well_known_file_download/147815576
+252491511330_2_3,147806970,600,5,127409099,rostral putamen,,H376.IIIB.02,/api/v2/well_known_file_download/147825909
+252491511155_1_4,121063678,600,5,12858,SP in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124205
+252491511165_2_1,114245596,600,5,12066,inner CP in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059813
+252491511252_2_4,147806435,600,5,127426940,lateral intermediate part of entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820175
+252491511264_2_2,147803532,600,5,127404186,reticulotegmental nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815592
+252491511097_1_3,127366294,600,5,113221090,SP in superolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206283
+252491511158_1_4,114245788,600,5,12099,MZ in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059865
+252491511155_2_1,121063689,600,5,12861,outer CP in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124207
+252491511151_2_1,121063639,600,5,12847,superior colliculus,,H376.IV.02,/api/v2/well_known_file_download/149124157
+252491511080_2_2,127366508,600,5,113221457,MZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206096
+252491511270_1_4,147805738,600,5,127374029,SP in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820254
+252491511195_1_1,147805318,600,5,127401250,pyramidal cells of caudal CA4,,H376.IIIA.02,/api/v2/well_known_file_download/147817349
+252491511454_1_1,156437987,600,5,127407494,inner CP in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886636
+252491511261_2_3,147803786,600,5,127407494,inner CP in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815546
+252491511056_1_4,127365550,600,5,12080,lateral posterior nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/149203492
+252491511167_2_2,114245638,600,5,12080,lateral posterior nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059791
+252491511264_1_3,147803409,600,5,127400688,multiform (lateral) division of MD,,H376.IIIA.02,/api/v2/well_known_file_download/147815586
+252491511147_1_2,121063736,600,5,12877,stratum pyramidale of caudal CA1,,H376.IV.02,/api/v2/well_known_file_download/149124085
+252491511087_1_4,127366695,600,5,113221572,SP in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206108
+252491511312_1_4,147807973,600,5,127434702,inner CP in ventromedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825707
+252491511250_1_4,147806074,600,5,127426571,IZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820059
+252491511290_2_3,147807060,600,5,127426426,inner CP in granular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825585
+252491511211_2_2,147803183,600,5,113221719,inner CP in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147815030
+252491511214_2_1,147802996,600,5,13386,inner CP in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815076
+252491510908_2_4,147802992,600,5,13386,inner CP in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815011
+252491511188_1_2,114245370,600,5,12018,outer CP in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059645
+252491510934_2_2,147804745,600,5,113221859,"periventricular nucleus, preoptic portion",,H376.IIIA.02,/api/v2/well_known_file_download/147817231
+252491511090_2_2,127366188,600,5,113221039,centromedian nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206238
+252491511175_1_1,127366044,600,5,113248003,ventral anterior nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206541
+252491511281_1_4,147805842,600,5,127409087,outer CP in subgenual (subcallosal) cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820375
+252491511252_1_2,147805968,600,5,127409236,VZ in rostral cingulate neocortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820136
+252491510952_2_4,147803401,600,5,127400686,magnocellular (medial) division of MD,,H376.IIIA.02,/api/v2/well_known_file_download/147815017
+252491510934_2_3,147805228,600,5,127407511,SP in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817233
+252491511266_1_3,147804191,600,5,113222020,midline nuclear complex,,H376.IIIA.02,/api/v2/well_known_file_download/147815618
+252491510816_2_1,147807542,600,5,127434375,inner SZ in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825517
+252491511174_1_2,121079886,600,5,113219351,IZ in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196059
+252491511165_2_4,114245496,600,5,12140,outer SZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059807
+252491511273_1_1,147806778,600,5,127434234,oculomotor nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820298
+252491511282_2_4,147806552,600,5,127427019,inner CP in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820399
+252491510959_1_2,146036998,600,5,12119,anteroventral nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/146038910
+252491511265_1_1,147804058,600,5,127402590,inner CP in posterior parahippocampal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815598
+252491511172_1_1,114245499,600,5,12092,inner SZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059721
+252491511264_1_1,147802918,600,5,13351,lateral subdivision of area 9,,H376.IIIA.02,/api/v2/well_known_file_download/147815582
+252491511187_2_2,114245355,600,5,12013,lateral portion of the shell,,H376.IV.02,/api/v2/well_known_file_download/121059637
+252491511181_2_1,114245721,600,5,12117,VZ in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059699
+252491511201_2_3,114245754,600,5,12011,rostral putamen,,H376.IV.02,/api/v2/well_known_file_download/121059955
+252491511161_1_4,121063821,600,5,12903,outer CP in dorsomedial parietal cortex (area 7m),,H376.IV.02,/api/v2/well_known_file_download/149124253
+252491511197_1_1,147804909,600,5,127400640,inner CP in caudal perirhinal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817381
+252491511186_1_2,114245706,600,5,12112,outer SZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059615
+252491511266_1_4,147803649,600,5,127407433,"inferior olive, medial nucleus",,H376.IIIA.02,/api/v2/well_known_file_download/147815620
+252491511229_2_2,147805782,600,5,127409127,SP in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819930
+252491511228_2_1,147805974,600,5,127409240,bed nucleus of stria terminalis,,H376.IIIB.02,/api/v2/well_known_file_download/147819898
+252491511159_2_3,114245804,600,5,12111,inner CP in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059845
+252491511200_2_4,114245776,600,5,12111,inner CP in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059949
+252491511192_2_2,147804821,600,5,113221792,MGE-Lateral region,,H376.IIIA.02,/api/v2/well_known_file_download/147817311
+252491511169_2_3,114245584,600,5,12060,IZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059755
+252491511096_1_3,127366170,600,5,113221033,mediodorsal nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206258
+252491511162_2_3,121063376,600,5,12059,outer CP in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/149124275
+252491510928_1_3,147804915,600,5,127402922,CP in rostral hippocampus,,H376.IIIA.02,/api/v2/well_known_file_download/147817145
+252491511452_1_2,156438106,600,5,127426575,IZ in granular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887155
+252491511130_2_4,121064018,600,5,12957,IZ in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123867
+252491511192_2_3,147804603,600,5,13347,IZ in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817313
+252491511054_2_2,127365574,600,5,12103,inner CP in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149203486
+252491511183_2_3,114245676,600,5,12103,inner CP in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059575
+252491511455_1_2,156437945,600,5,113221749,IZ in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/156886652
+252491511454_1_4,156438005,600,5,127408548,choroid plexus of the fourth ventricle,,H376.IIIA.02,/api/v2/well_known_file_download/156886642
+252491511259_2_4,147803693,600,5,127408548,choroid plexus of the fourth ventricle,,H376.IIIA.02,/api/v2/well_known_file_download/147815515
+252491511324_2_4,147807273,600,5,127433766,"substantia nigra, compact part",,H376.IIIB.02,/api/v2/well_known_file_download/147825901
+252491511184_2_2,114245439,600,5,12045,external segment of globus pallidus,,H376.IV.02,/api/v2/well_known_file_download/121059587
+252491511282_1_3,147806752,600,5,127434226,IZ in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820389
+252491511188_1_4,114245376,600,5,12020,SP in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059651
+252491511313_1_2,147807048,600,5,127426422,inner CP in dysgranular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825719
+252491511297_1_3,147807132,600,5,127426755,inner CP in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825609
+252491511299_1_4,147807421,600,5,127434304,SP in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825643
+252491511272_2_2,147806383,600,5,127426865,IZ in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820291
+252491511316_2_3,147807604,600,5,127434410,inner SZ in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825771
+252491511103_2_4,127366312,600,5,113221432,IZ in primary auditory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206335
+252491510816_1_3,147807243,600,5,127426964,multiform (lateral) division of MD,,H376.IIIB.02,/api/v2/well_known_file_download/147825513
+252491511194_2_4,147804627,600,5,13371,outer CP in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817347
+252491510816_1_2,147807636,600,5,127434459,outer CP in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825511
+252491511273_2_4,147806558,600,5,127427021,SP in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820312
+252491511181_1_2,114245712,600,5,12114,IZ in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059705
+252491511273_1_4,147805890,600,5,127409154,VZ in subcallosal region,,H376.IIIB.02,/api/v2/well_known_file_download/147820304
+252491511159_2_4,114245780,600,5,12118,SG in posterior frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059821
+252491510859_2_3,147805240,600,5,127407519,IZ in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817121
+252491511267_2_1,147803729,600,5,127407819,lateral hemisphere of cerebellum,,H376.IIIA.02,/api/v2/well_known_file_download/147815638
+252491511211_2_3,147803727,600,5,127407819,lateral hemisphere of cerebellum,,H376.IIIA.02,/api/v2/well_known_file_download/147815032
+252491511289_1_3,147807080,600,5,127426311,VZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825561
+252491511298_2_4,147807913,600,5,127434669,lower (caudal) rhombic lip,,H376.IIIB.02,/api/v2/well_known_file_download/147825635
+252491511205_2_4,147805288,600,5,127407626,VZ in caudal hippocampal proper,,H376.IIIA.02,/api/v2/well_known_file_download/147817459
+252491511088_2_3,127366364,600,5,113221150,MZ in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206175
+252491511258_2_4,147802974,600,5,13384,premotor cortex (area 6),,H376.IIIA.02,/api/v2/well_known_file_download/147815499
+252491510859_1_2,147804639,600,5,13374,IZ in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817111
+252491511077_1_1,127366002,600,5,113220614,ventromedial hypothalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149205973
+252491511046_1_1,121081031,600,5,113220614,ventromedial hypothalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195853
+252491511315_1_4,147807762,600,5,127434578,abducens nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825749
+252491511316_2_2,147807492,600,5,127434347,SP in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825769
+252491511055_1_3,127365558,600,5,12888,pyramidal cells of caudal CA4,,H376.IV.02,/api/v2/well_known_file_download/149203490
+252491511147_2_2,121063748,600,5,12888,pyramidal cells of caudal CA4,,H376.IV.02,/api/v2/well_known_file_download/149124093
+252491511318_2_4,147806872,600,5,127374023,MZ in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825805
+252491511053_1_2,121081067,600,5,113220620,rostral part of entorhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195890
+252491511188_2_3,114245385,600,5,12023,inner SZ in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059657
+252491510813_2_4,147806477,600,5,127426968,ventral posterior lateral nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147819864
+252491511104_2_3,147805306,600,5,127408522,parafascicular nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817249
+252491511269_1_3,147804100,600,5,113221973,caudal putamen,,H376.IIIA.02,/api/v2/well_known_file_download/147815666
+252491510908_2_3,147804096,600,5,113221973,caudal putamen,,H376.IIIA.02,/api/v2/well_known_file_download/147815009
+252491510785_2_4,147807008,600,5,127409978,inner portion of lateral ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147825507
+252491511131_1_4,114245515,600,5,12096,basolateral nucleus (basal nucleus),,H376.IV.02,/api/v2/well_known_file_download/121059883
+252491511318_2_1,147807548,600,5,127434377,VZ in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825799
+252491511164_2_2,114245475,600,5,12133,anterior cortical nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059831
+252491511164_2_1,114245473,600,5,12133,anterior cortical nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059833
+252491511157_2_3,121063443,600,5,12802,stratum pyramidale of rostral CA1,,H376.IV.02,/api/v2/well_known_file_download/149124241
+252491511146_1_3,121063763,600,5,12893,SZ in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124071
+252491511187_2_3,114245358,600,5,12014,medial portion of the shell,,H376.IV.02,/api/v2/well_known_file_download/121059639
+252491511325_1_2,147805824,600,5,127409067,outer SZ in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820441
+252491510812_2_2,147806415,600,5,127426910,medial portion of STH,,H376.IIIB.02,/api/v2/well_known_file_download/147819844
+252491511158_2_1,114245794,600,5,12141,SP in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059823
+252491511188_2_1,114245379,600,5,12021,IZ in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059653
+252491511289_2_3,147807293,600,5,127433872,SP in caudal perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825569
+252491511448_1_4,156438264,600,5,127434706,SP in dorsomedial extrastriate cortex (V2),,H376.IIIB.02,/api/v2/well_known_file_download/156887109
+252491511151_1_2,121063630,600,5,12844,lateral nucleus of pulvinar,,H376.IV.02,/api/v2/well_known_file_download/149124151
+252491511136_2_1,121063939,600,5,12943,VZ in ventromedial extrastriate cortex (VP),,H376.IV.02,/api/v2/well_known_file_download/149123945
+252491511230_1_4,147806582,600,5,127427029,outer SZ in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819996
+252491511189_1_3,114245325,600,5,12003,outer CP in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059665
+252491511142_1_2,121063870,600,5,12923,outer SZ in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124020
+252491511099_2_4,121080905,600,5,113220579,internal segment of globus pallidus,,H376.IV.03,/api/v2/well_known_file_download/149195984
+252491511151_1_3,121063633,600,5,12845,inferior nucleus of pulvinar,,H376.IV.02,/api/v2/well_known_file_download/149124153
+252491510934_1_1,147805144,600,5,127407431,lower (caudal) rhombic lip,,H376.IIIA.02,/api/v2/well_known_file_download/147817221
+252491511110_2_3,127366216,600,5,113221047,MZ in primary auditory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206463
+252491511325_2_2,147805944,600,5,127409217,outer CP in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820449
+252491511146_1_1,121063757,600,5,12891,polymorphic layer of caudal subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124066
+252491511475_2_4,147807923,600,5,127434671,MZ in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825975
+252491511103_2_1,127366713,600,5,113221578,inner SZ in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206329
+252491511168_2_2,114245653,600,5,12085,lateral habenular nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059777
+252491511137_2_3,121063913,600,5,12936,MZ in ventromedial extrastriate cortex (VP),,H376.IV.02,/api/v2/well_known_file_download/149123965
+252491511314_2_4,147805770,600,5,127409019,outer CP in dorsolateral prefrontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820437
+252491510957_2_2,146036823,600,5,113220610,supraoptic nucleus,,H376.IV.03,/api/v2/well_known_file_download/146039615
+252491511269_2_3,147803290,600,5,113221825,rostral migratory stream,,H376.IIIA.02,/api/v2/well_known_file_download/147815674
+252491511167_1_3,114245632,600,5,12078,ventral tegmental area,,H376.IV.02,/api/v2/well_known_file_download/121059797
+252491511197_2_1,147805542,600,5,113222004,outer SZ in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817389
+252491511264_1_4,147803241,600,5,113221753,IZ in subgenual (subcallosal) cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815588
+252491511104_1_4,147805162,600,5,127407821,hypoglossal nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817243
+252491511202_1_2,147805402,600,5,127401339,outer SZ in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817415
+252491511078_1_1,127366078,600,5,113220951,caudal putamen,,H376.IV.03,/api/v2/well_known_file_download/149205990
+252491511270_2_3,147805926,600,5,127409988,nucleus of diagonal band,,H376.IIIB.02,/api/v2/well_known_file_download/147820260
+252491511183_1_1,114245451,600,5,12049,ventromedial hypothalamic nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059605
+252491511227_2_3,147806594,600,5,127433762,outer SZ in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819886
+252491511453_2_2,156438079,600,5,127426344,ventral claustrum,,H376.IIIB.02,/api/v2/well_known_file_download/156887179
+252491510908_2_2,127373674,600,5,12836,layer III of area 35c,,H376.IV.02,/api/v2/well_known_file_download/149124305
+252491511175_2_1,127366030,600,5,113247999,anteromedial nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206549
+252491511229_2_1,147805750,600,5,127374094,SP in dorsomedial frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819927
+252491511152_1_3,121063605,600,5,12835,layer II of area 35c,,H376.IV.02,/api/v2/well_known_file_download/149124169
+252491511169_1_3,114245572,600,5,12057,basal nucleus of Meynert,,H376.IV.02,/api/v2/well_known_file_download/121059767
+252491511150_2_3,121063673,600,5,12857,SP in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124145
+252491511150_2_2,121063671,600,5,12857,SP in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124143
+252491511475_1_1,147808115,600,5,127434765,external granular (germinal) layer of upper rhombic lip,,H376.IIIB.02,/api/v2/well_known_file_download/147825961
+252491511109_1_1,127366324,600,5,113221113,outer SZ in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206358
+252491511316_1_1,147807516,600,5,127434369,outer SZ in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825759
+252491511078_2_1,127366348,600,5,113221434,VZ in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206007
+252491510816_1_4,147807112,600,5,127426721,outer CP in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825515
+252491511273_2_3,147806197,600,5,127426721,outer CP in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820310
+252491510934_2_4,147804785,600,5,113221757,inner SZ in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147817235
+252491511191_1_3,114245277,600,5,11981,MZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059923
+252491511191_1_2,114245275,600,5,11981,MZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059921
+252491511194_2_2,147804927,600,5,127424248,outer CP in ventromedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817343
+252491511143_2_2,121063854,600,5,12916,inner CP in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124044
+252491511275_2_3,147806177,600,5,127426713,VZ in hypothalamic portion,,H376.IIIB.02,/api/v2/well_known_file_download/147820342
+252491511450_2_1,156438222,600,5,127434611,outer SZ in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887129
+252491511254_1_2,147806588,600,5,127427031,inner SZ in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820234
+252491510927_1_2,147805500,600,5,113221961,external segment of globus pallidus,,H376.IIIA.02,/api/v2/well_known_file_download/147817127
+252491511168_1_2,114245614,600,5,12072,ventral posterior lateral nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059783
+252491511204_1_3,147804681,600,5,13364,inner CP in dorsomedial frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817433
+252491511097_2_4,127366574,600,5,113221485,outer SZ in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206311
+252491511162_2_2,121063379,600,5,12043,outer CP in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/149124273
+252491511194_1_3,147805602,600,5,127408491,inner CP in (rostral) midinferior temporal cortex (area 36),,H376.IIIA.02,/api/v2/well_known_file_download/147817337
+252491511058_1_1,127365542,600,5,12955,SP in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149203494
+252491511325_1_4,147806698,600,5,127434196,inferior nucleus of pulvinar,,H376.IIIB.02,/api/v2/well_known_file_download/147820445
+252491511300_1_3,147807409,600,5,127434300,outer CP in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825657
+252491511317_2_4,147807462,600,5,127434337,dorsal raphe nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825789
+252491511138_1_3,121063545,600,5,12821,"periaqueductal gray substance, dorsolateral portion",,H376.IV.02,/api/v2/well_known_file_download/149123973
+252491511107_2_4,147805096,600,5,127407350,outer CP in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817299
+252491510959_2_1,146037040,600,5,12863,MZ in posteroventral (inferior) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/146038916
+252491510960_1_4,146037034,600,5,12863,MZ in posteroventral (inferior) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/146038930
+252491511057_1_1,121081081,600,5,113220622,MZ in midinferior temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195942
+252491511158_1_1,114245782,600,5,12120,ventral anterior nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059871
+252491511104_1_3,147804723,600,5,113221813,indusium griseum,,H376.IIIA.02,/api/v2/well_known_file_download/147817241
+252491511311_1_1,147807118,600,5,127426723,inner CP in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825685
+252491511202_1_3,147805168,600,5,127407823,dorsal motor nucleus of the vagus (vagal nucleus),,H376.IIIA.02,/api/v2/well_known_file_download/147817417
+252491511261_1_2,147803548,600,5,127408952,lateral parabrachial nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815536
+252491510958_2_4,146036859,600,5,113220728,posterior hypothalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/146039629
+252491511057_2_4,121081384,600,5,113220728,posterior hypothalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195956
+252491511109_2_1,127366054,600,5,113248007,reticular nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206368
+252491511190_1_2,114245298,600,5,11988,outer CP in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059905
+252491511272_1_4,147805732,600,5,127374027,inner CP in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820286
+252491511330_2_1,147807865,475,5,127434619,"inferior olive, dorsal nucleus",,H376.IIIB.02,/api/v2/well_known_file_download/147825905
+252491511318_2_2,147807854,600,5,127434619,"inferior olive, dorsal nucleus",,H376.IIIB.02,/api/v2/well_known_file_download/147825801
+252491511317_1_4,147807895,600,5,127434646,interpositus (intermediate) nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825781
+252491511320_1_3,147807734,600,5,127434516,caudal (posterior) extramural migratory stream,,H376.IIIB.02,/api/v2/well_known_file_download/147825827
+252491511167_2_3,114245641,600,5,12081,midbrain reticular formation,,H376.IV.02,/api/v2/well_known_file_download/121059789
+252491511157_1_4,121063426,600,5,12798,granular layer of rostral dentate gyrus,,H376.IV.02,/api/v2/well_known_file_download/149124235
+252491511098_1_2,127366675,600,5,113221541,MZ in posterodorsal (superior) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206315
+252491511077_1_4,127365990,600,5,113220461,lateral septal nucleus,,H376.IV.03,/api/v2/well_known_file_download/149205982
+252491511057_2_1,121080236,600,5,113220461,lateral septal nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195950
+252491511052_2_1,121080232,600,5,113220461,lateral septal nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195879
+252491511171_1_2,114245530,600,5,12101,inner CP in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059735
+252491511059_2_1,127365510,600,5,12895,MZ in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149203504
+252491511227_2_2,147806159,600,5,127426680,ventromedial hypothalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147819884
+252491511187_1_1,114245391,600,5,12025,medial ganglionic eminence,,H376.IV.02,/api/v2/well_known_file_download/121059649
+252491511252_1_3,147806279,600,5,127426323,anterior cortical nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820141
+252491511256_2_1,147803467,600,5,127403456,VZ in midlateral extrastriate cortex (area 19),,H376.IIIA.02,/api/v2/well_known_file_download/147815460
+252491511057_1_2,121080570,600,5,113220521,olfactory tubercle,,H376.IV.03,/api/v2/well_known_file_download/149195944
+252491511320_1_4,147807710,600,5,127434507,motor nucleus of trigeminal nerve,,H376.IIIB.02,/api/v2/well_known_file_download/147825829
+252491511450_2_3,156438234,600,5,127434621,outer CP in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887133
+252491511059_1_3,127365494,600,5,12870,inner SZ in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149203500
+252491511101_2_2,121080263,600,5,113220465,lateral ganglionic eminence,,H376.IV.03,/api/v2/well_known_file_download/149196007
+252491511148_1_1,121063710,600,5,12866,inner CP in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124099
+252491510934_1_3,147805060,600,5,127408956,motor nucleus of trigeminal nerve,,H376.IIIA.02,/api/v2/well_known_file_download/147817225
+252491511106_2_4,147805614,600,5,113222058,anterior cortical nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817283
+252491510930_1_2,147804879,600,5,113221939,VZ in septal region,,H376.IIIA.02,/api/v2/well_known_file_download/147817159
+252491511132_2_3,127366412,600,5,113221162,medial geniculate nuclei,,H376.IV.03,/api/v2/well_known_file_download/149206529
+252491510957_2_3,146036793,600,5,113220559,inner CP in rostral perirhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039617
+252491511253_1_4,147806056,600,5,127426428,SP in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820222
+252491510931_2_2,147805294,600,5,127401138,polysensory temporal cortex (area 22p),,H376.IIIA.02,/api/v2/well_known_file_download/147817183
+252491510927_2_4,147805204,600,5,127407486,SG in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817139
+252491511281_1_2,147806104,600,5,127426315,MGE-Lateral region,,H376.IIIB.02,/api/v2/well_known_file_download/147820371
+252491511168_1_3,114245617,600,5,12073,ventral posterior medial nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059781
+252491511156_2_1,121063526,600,5,12815,SP in entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124223
+252491511104_2_4,147805408,600,5,127424207,outer SZ in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817251
+252491511283_1_2,147806487,600,5,127426976,caudal subdivision of paraventricular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820403
+252491511313_2_2,147807828,600,5,127434609,IZ in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825727
+252491511472_2_1,147807289,600,5,127433868,red nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825921
+252491511198_2_4,147805114,600,5,127407362,IZ in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817411
+252491511202_1_1,147805596,600,5,113222056,endopiriform nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817413
+252491511107_1_3,147805566,600,5,113222024,anterodorsal nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817289
+252491511298_1_2,147807329,600,5,127434232,Edinger-Westphal nucleus (accessory oculomotor nucleus),,H376.IIIB.02,/api/v2/well_known_file_download/147825623
+252491511251_2_2,147806116,600,5,127426317,basal nucleus of Meynert,,H376.IIIB.02,/api/v2/well_known_file_download/147820111
+252491511252_1_1,147806110,600,5,127426317,basal nucleus of Meynert,,H376.IIIB.02,/api/v2/well_known_file_download/147820128
+252491511276_1_3,147804255,600,5,113222060,mediodorsal nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147815684
+252491511135_1_3,121063986,600,5,12954,inner CP in dorsomedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123857
+252491511256_1_3,147803938,600,5,127408546,inner CP in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815456
+252491511476_2_3,147807401,600,5,127434296,pyramidal layer of caudal subiculum,,H376.IIIB.02,/api/v2/well_known_file_download/147825989
+252491511263_1_3,147803508,600,5,127404172,outer SZ in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815570
+252491511283_1_1,147805938,600,5,127409215,MZ in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820401
+252491511139_1_4,121063513,600,5,12812,layer IIIb of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123992
+252491510817_1_4,147807630,600,5,127434420,parabigeminal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825531
+252491511160_1_4,121063400,600,5,12071,mediodorsal nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/149124245
+252491511168_1_1,114245611,600,5,12071,mediodorsal nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059785
+252491511046_2_4,121080430,600,5,113220497,inner CP in dysgranular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149195869
+252491511054_1_4,121080609,600,5,113220527,bed nucleus of stria terminalis,,H376.IV.03,/api/v2/well_known_file_download/149195908
+252491510934_2_1,147805012,600,5,127404174,inner SZ in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817229
+252491511258_1_4,147804050,600,5,127401084,lateral nucleus of pulvinar,,H376.IIIA.02,/api/v2/well_known_file_download/147815490
+252491511214_1_2,147803209,600,2.5,113221727,inner CP in subgenual (subcallosal) cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815070
+252491511252_2_3,147806068,600,5,127426432,SP in granular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820168
+252491511260_1_1,147803842,600,5,127408520,centromedian nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147815517
+252491511166_2_4,121063394,600,5,12094,lateral dorsal nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/149124303
+252491511172_1_4,114245508,600,5,12094,lateral dorsal nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059693
+252491510927_2_1,147804705,600,5,13357,VZ in dorsomedial frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817133
+252491511319_1_2,147807838,600,5,127434613,inner SZ in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825809
+252491511149_1_4,121063692,600,5,12862,inner CP in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124121
+252491511151_2_4,121063648,600,5,12851,outer SZ in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124163
+252491511078_1_2,127366626,600,5,113221527,outer CP in midlateral extrastriate cortex,,H376.IV.03,/api/v2/well_known_file_download/149205994
+252491511090_1_2,127366639,600,5,113221531,SP in midlateral extrastriate cortex (area 19),,H376.IV.03,/api/v2/well_known_file_download/149206221
+252491511053_1_4,121081294,600,5,113220691,SP in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195894
+252491511089_1_3,127366416,600,5,113221164,pretectal nuclear complex,,H376.IV.03,/api/v2/well_known_file_download/149206191
+252491511324_1_1,147807415,600,5,127434302,inner CP in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825887
+252491511290_1_1,147807768,600,5,127434580,cerebellar vermis,,H376.IIIB.02,/api/v2/well_known_file_download/147825573
+252491511277_2_2,147803434,600,5,127424252,outer CP in midlateral extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815706
+252491511137_1_3,121063899,600,5,12932,IZ in midlateral extrastriate cortex (area 19),,H376.IV.02,/api/v2/well_known_file_download/149123957
+252491510992_1_2,121080596,600,5,113220525,MZ in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195769
+252491511256_2_4,147803762,600,5,127408483,lateral reticular nucleus (principal part),,H376.IIIA.02,/api/v2/well_known_file_download/147815466
+252491511154_2_3,127366206,600,5,113221043,lateral posterior nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206537
+252491511102_2_4,121079823,600,5,12968,SP in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149196027
+252491511264_2_4,147803898,600,5,127401260,outer CP in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815596
+252491511300_1_2,147807748,600,5,127434520,cochlear nuclei,,H376.IIIB.02,/api/v2/well_known_file_download/147825655
+252491511252_1_4,147806341,600,5,127426831,layer IIIu of area 35r,,H376.IIIB.02,/api/v2/well_known_file_download/147820149
+252491511130_2_3,121063836,600,5,12909,SG in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149123869
+252491511268_1_2,147803564,600,5,127407346,MZ in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815648
+252491511155_2_3,121063893,600,5,12930,inner CP in midlateral extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124211
+252491510932_1_2,147804975,600,5,127408920,MZ in dorsomedial extrastriate cortex (V2),,H376.IIIA.02,/api/v2/well_known_file_download/147817191
+252491511255_2_1,147803492,600,5,127408930,SP in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815444
+252491510955_2_2,146036895,600,5,113221123,VZ in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/146039583
+252491511057_1_3,121080210,600,5,113220459,medial septal nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195946
+252491511147_2_3,121063751,600,5,12889,molecular layer of caudal subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124095
+252491511145_1_4,121063796,600,5,12884,inner CP in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124056
+252491510928_1_2,147804833,600,5,113221884,Dorsal claustrum,,H376.IIIA.02,/api/v2/well_known_file_download/147817143
+252491511170_2_4,114245563,600,5,12150,SG in rostral entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059737
+252491511289_2_2,147807722,600,5,127434512,nucleus coeruleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825567
+252491511096_2_3,127366122,600,5,113220965,IZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206271
+252491510959_1_3,146037022,600,5,12818,medial geniculate nuclei,,H376.IV.02,/api/v2/well_known_file_download/146038912
+252491510960_2_2,146037016,600,5,12818,medial geniculate nuclei,,H376.IV.02,/api/v2/well_known_file_download/146038934
+252491510992_2_4,121080725,600,5,113220535,paraventricular nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195781
+252491511200_2_3,114245772,600,5,12052,layer II of piriform cortex,,H376.IV.02,/api/v2/well_known_file_download/121059947
+252491510960_1_3,146037010,600,5,12796,dorsal lateral geniculate nucleus,,H376.IV.02,/api/v2/well_known_file_download/146038928
+252491511163_2_1,121063413,600,5,12796,dorsal lateral geniculate nucleus,,H376.IV.02,/api/v2/well_known_file_download/149124287
+252491511324_2_1,147807197,600,5,127426898,inner SZ in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825895
+252491511215_2_3,147803882,600,5,127401246,stratum oriens of caudal CA1,,H376.IIIA.02,/api/v2/well_known_file_download/147815099
+252491511053_2_4,121080188,600,5,113220455,subgenual (subcallosal) division of MFC (area 25),,H376.IV.03,/api/v2/well_known_file_download/149195902
+252491511087_2_1,127366490,600,5,113221451,MZ in retrosplenial cortex,,H376.IV.03,/api/v2/well_known_file_download/149206110
+252491511319_2_3,147807249,600,5,127426966,lateral posterior nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147825819
+252491511318_1_3,147807808,600,5,127434592,ventricular (matrix) zone of cerebellum,,H376.IIIB.02,/api/v2/well_known_file_download/147825795
+252491511282_1_4,147806080,600,5,127426573,IZ in dysgranular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820391
+252491511100_2_4,121081360,600,5,113220707,anterior cortical nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195994
+252491511254_2_4,147806716,600,5,127434200,lateral habenular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820246
+252491511161_1_2,121063815,600,5,12901,MZ in dorsomedial parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124249
+252491511161_1_1,121063813,600,5,12901,MZ in dorsomedial parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124247
+252491510816_2_2,147807822,600,5,127434607,SP in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825519
+252491511146_1_4,121063766,600,5,12880,SZ in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124073
+252491511188_2_2,114245382,600,5,12022,outer SZ in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059655
+252491511261_2_4,147803348,600,5,113221912,laterodorsal part of putamen,,H376.IIIA.02,/api/v2/well_known_file_download/147815548
+252491511154_1_4,121081148,600,5,113220628,outer CP in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196055
+252491510958_1_1,146037076,600,5,12912,MZ in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/146038899
+252491511211_1_3,147803167,600,5,113221713,caudal portion of VFC (area 44),,H376.IIIA.02,/api/v2/well_known_file_download/147815023
+252491511138_1_4,121063548,600,5,12822,SG in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149123975
+252491511310_1_1,147807566,600,5,127434381,outer CP in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825669
+252491511319_2_1,147807560,600,5,127434381,outer CP in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825815
+252491511266_1_2,147804140,600,5,113221994,inner CP in granular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815616
+252491511275_1_3,147806146,600,5,127426674,Intercalated nucleus of amygdala,,H376.IIIB.02,/api/v2/well_known_file_download/147820334
+252491511274_1_1,147806203,600,5,127426725,SG in rostral perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820314
+252491511105_2_2,147805524,600,5,113221969,paraventricular nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817263
+252491511228_1_3,147806128,600,5,127426587,peripheral portion of GPi,,H376.IIIB.02,/api/v2/well_known_file_download/147819894
+252491511142_1_4,121063876,600,5,12925,VZ in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124024
+252491511077_1_2,127365984,600,5,113220285,inner SZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149205976
+252491511045_2_4,121080096,600,5,113220285,inner SZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195851
+252491511258_1_3,147803044,600,5,13363,outer CP in dorsomedial frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815488
+252491511259_1_1,147803810,600,5,127407523,inner SZ in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147815501
+252491511196_1_1,147805518,600,5,113221967,parataenial nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817365
+252491511265_1_3,147803802,600,5,127407517,IZ in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147815602
+252491511319_1_1,147807177,600,5,127426851,MZ in primary auditory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825807
+252491511045_1_2,121080918,600,5,113220583,ventral claustrum,,H376.IV.03,/api/v2/well_known_file_download/149195839
+252491511103_2_3,127366596,600,5,113221491,inner SZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206333
+252491510817_1_3,147806998,600,5,127434663,lateral septal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825529
+252491510933_2_2,147805138,600,5,127407385,VZ in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817215
+252491511159_1_3,114245760,600,5,12039,MZ in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059853
+252491511078_1_3,127366534,600,5,113221463,outer CP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149205998
+252491511052_2_2,121080780,600,5,113220553,deep layers of olfactory entorhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195881
+252491511151_1_4,121063636,600,5,12846,central nucleus of inferior colliculus,,H376.IV.02,/api/v2/well_known_file_download/149124155
+252491511297_1_2,147807498,600,5,127434349,SP in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825607
+252491511455_2_1,156437963,600,5,127401335,outer SZ in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886658
+252491511277_1_2,147803954,600,5,127401335,outer SZ in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815698
+252491511110_1_4,127366701,600,5,113221574,IZ in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206450
+252491511157_1_1,114245798,600,5,12079,precommissural nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059873
+252491511059_1_4,127365502,600,5,12875,stratum lacunosum-moleculare of caudal CA1,,H376.IV.02,/api/v2/well_known_file_download/149203502
+252491511164_2_4,114245481,600,5,12135,zona incerta,,H376.IV.02,/api/v2/well_known_file_download/121059827
+252491511109_2_2,127366466,600,5,113221395,lateral nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206371
+252491511192_1_1,147805030,600,5,127404184,caudal division of IPC (area 39),,H376.IIIA.02,/api/v2/well_known_file_download/147817301
+252491511175_2_4,127366386,600,5,113221156,medial habenular nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206555
+252491511055_2_1,121080940,600,5,113220589,lateral nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195920
+252491511097_1_4,127366612,600,5,113221495,VZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206286
+252491511215_1_2,147803306,600,5,113221880,body of caudate,,H376.IIIA.02,/api/v2/well_known_file_download/147815086
+252491511452_1_4,156438118,600,5,127426678,dorsomedial hypothalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887159
+252491510816_1_1,147807100,600,5,127426678,dorsomedial hypothalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825509
+252491511448_1_2,156438252,600,5,127434696,outer CP in dorsomedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887105
+252491511448_1_1,156438246,600,5,127434696,outer CP in dorsomedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887103
+252491511155_1_1,121063561,600,5,12825,outer CP in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149124199
+252491511284_1_1,147805848,600,5,127409091,SP in subgenual (subcallosal) cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820417
+252491510991_2_4,121080052,600,5,113220261,IZ in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195765
+252491511183_2_1,114245463,600,5,12053,layer III of piriform cortex,,H376.IV.02,/api/v2/well_known_file_download/121059571
+252491511167_1_4,114245665,600,5,12089,dorsal raphe nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059795
+252491511158_2_3,114245796,600,5,12070,caudal subdivision of medial nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059861
+252491511202_2_4,147805324,600,5,127401254,MZ in posteroventral (inferior) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817427
+252491511321_1_2,147807024,600,5,127409211,layer II of piriform cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825841
+252491510957_1_2,146036913,600,5,113221393,outer CP in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/146039607
+252491511132_1_1,127366462,600,5,113221393,outer CP in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206509
+252491511319_2_2,147807741,600,5,127434518,facial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825817
+252491511273_2_1,147805764,600,5,127374109,inner SZ in dorsolateral prefrontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820306
+252491511182_1_1,114245682,600,5,12106,SZ in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059687
+252491511323_1_1,147807223,600,5,127426906,SP in rostral midinferior temporal cortex (area 36),,H376.IIIB.02,/api/v2/well_known_file_download/147825871
+252491511106_2_2,147804779,600,5,113221755,outer SZ in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147817279
+252491510931_2_4,147804767,600,5,113221729,SP in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147817187
+252491511175_1_3,127366530,600,5,113221461,inner CP in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206545
+252491511079_2_3,127366520,600,5,113221461,inner CP in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206081
+252491511280_2_1,147806798,600,5,127434262,limitans nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820361
+252491511214_1_1,147804263,600,5,127399761,laterorostral part of entorhinal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815068
+252491511314_2_1,147807385,600,5,127434278,pyramidal cells of caudal CA4,,H376.IIIB.02,/api/v2/well_known_file_download/147825741
+252491511103_2_2,127366014,600,5,113247995,amygdalostriatal transition area,,H376.IV.03,/api/v2/well_known_file_download/149206331
+252491511318_1_1,147808057,600,5,127434737,VZ in dorsomedial extrastriate cortex (V2),,H376.IIIB.02,/api/v2/well_known_file_download/147825791
+252491511098_1_1,127366590,600,5,113221489,outer SZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206313
+252491511256_2_2,147804070,600,5,127402901,VZ in posterior parahippocampal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815462
+252491511170_2_1,114245554,600,5,12147,outer CP in rostral perirhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059743
+252491510859_2_4,147804969,600,5,127408918,MZ in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817123
+252491511213_1_2,147803142,600,5,113221853,lateral portion of the shell,,H376.IIIA.02,/api/v2/well_known_file_download/147815054
+252491511188_1_3,114245373,600,5,12019,inner CP in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059647
+252491510960_1_2,146037004,600,5,12084,anterior nucleus of pulvinar,,H376.IV.02,/api/v2/well_known_file_download/146038926
+252491511131_2_2,114245650,600,5,12084,anterior nucleus of pulvinar,,H376.IV.02,/api/v2/well_known_file_download/121059879
+252491511268_2_3,147803673,600,5,127407437,caudal (posterior) extramural migratory stream,,H376.IIIA.02,/api/v2/well_known_file_download/147815658
+252491511321_2_2,147807379,600,5,127434276,stratum pyramidale of caudal CA3,,H376.IIIB.02,/api/v2/well_known_file_download/147825849
+252491510817_1_2,147806952,600,5,127409093,IZ in subgenual (subcallosal) cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825527
+252491511150_1_2,121063654,600,5,12853,outer SZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124135
+252491511253_1_1,147806377,600,5,127426863,SP in primary auditory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820180
+252491511102_2_2,121079807,600,5,12966,outer CP in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149196023
+252491511097_2_3,127366402,600,5,113221160,anterior nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206309
+252491511079_2_2,127366396,600,5,113221160,anterior nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206078
+252491511189_2_3,114245337,600,5,12007,outer SZ in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059899
+252491511154_2_4,121063724,600,5,12872,MZ in posterodorsal (superior) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124197
+252491511108_1_1,127366484,600,5,113221414,medial nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206337
+252491511080_2_1,127366478,600,5,113221414,medial nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206094
+252491510812_1_1,147806249,600,5,127426751,MZ in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819834
+252491511316_1_4,147807642,600,5,127434461,pineal body,,H376.IIIB.02,/api/v2/well_known_file_download/147825765
+252491511253_1_3,147806098,600,5,127426313,LGE-VZ border region,,H376.IIIB.02,/api/v2/well_known_file_download/147820188
+252491511229_2_4,147806570,600,5,127427025,IZ in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819938
+252491511448_2_4,156438288,600,5,127434735,VZ in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887117
+252491510956_2_2,146036769,600,5,113220537,SP in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/146039599
+252491510957_1_3,146036763,600,5,113220537,SP in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/146039609
+252491511211_2_1,147804175,600,5,113222002,IZ in granular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815028
+252491511324_2_3,147807480,600,5,127434343,outer CP in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825899
+252491511451_2_3,156438185,600,5,127434412,VZ in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/156887149
+252491511253_1_2,147806668,600,5,127433870,subparafascicular nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147820184
+252491511137_1_4,121063902,600,5,12933,outer SZ in midlateral extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123959
+252491511230_2_4,147806746,600,5,127434210,SP in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820032
+252491510992_2_1,121080699,600,5,113220531,outer CP in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195775
+252491511135_2_1,121064027,600,5,12958,IZ in dorsomedial extrastriate cortex (V2),,H376.IV.02,/api/v2/well_known_file_download/149123853
+252491511184_2_4,114245448,600,5,12048,dorsomedial hypothalamic nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059591
+252491511272_1_3,147806686,600,5,127434097,retroparafascicular area of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147820284
+252491511455_1_4,156437957,600,5,127402977,stratum pyramidale of caudal CA1,,H376.IIIA.02,/api/v2/well_known_file_download/156886656
+252491511276_1_1,147803874,600,5,127402977,stratum pyramidale of caudal CA1,,H376.IIIA.02,/api/v2/well_known_file_download/147815678
+252491510812_2_4,147805896,600,5,127409158,lateral portion of the shell,,H376.IIIB.02,/api/v2/well_known_file_download/147819848
+252491511191_2_3,114245289,600,5,11985,VZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059931
+252491511133_1_4,121080028,600,5,113220255,SP in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196039
+252491511150_1_4,121063660,600,5,12855,VZ in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124139
+252491511193_1_3,147804751,600,5,113221717,outer CP in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147817321
+252491511172_1_3,114245505,600,5,12093,VZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059717
+252491511172_1_2,114245503,600,5,12093,VZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059719
+252491511212_1_1,147803484,600,5,127408924,inner CP in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815036
+252491511262_1_4,147803418,600,1.96269907795474,127403022,IZ in caudal perirhinal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815556
+252491511105_2_4,147805312,600,5,127401248,stratum pyramidale of caudal CA3,,H376.IIIA.02,/api/v2/well_known_file_download/147817267
+252491511448_1_3,156438258,600,5,127434700,outer CP in ventromedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887107
+252491510817_2_4,147807967,600,5,127434700,outer CP in ventromedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825539
+252491511100_2_1,121080310,600,5,113220469,lateral portion of the shell,,H376.IV.03,/api/v2/well_known_file_download/149195992
+252491510991_2_2,121079936,600,5,113219472,rostral putamen,,H376.IV.03,/api/v2/well_known_file_download/149195761
+252491510933_1_4,147805348,600,5,127403720,SP in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817211
+252491511157_2_1,121063433,600,5,12799,subgranular zone of rostral dentate gyrus,,H376.IV.02,/api/v2/well_known_file_download/149124237
+252491511153_2_1,121063581,600,5,12829,SP in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149124189
+252491511268_2_2,147803020,600,5,13391,VZ in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815656
+252491511267_2_3,147802958,600,5,13372,inner CP in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815642
+252491511213_2_1,147802956,600,5,13372,inner CP in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815060
+252491511162_2_4,121063370,600,5,12091,IZ in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124277
+252491511192_2_1,147805572,600,5,113222048,olfactory part of entorhinal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817309
+252491511215_2_2,147803689,600,5,127407441,spinal trigeminal nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815096
+252491511163_2_3,121063421,600,5,12797,caudal ganglionic eminence,,H376.IV.02,/api/v2/well_known_file_download/149124291
+252491511157_1_3,121063417,600,5,12797,caudal ganglionic eminence,,H376.IV.02,/api/v2/well_known_file_download/149124233
+252491510955_1_1,146036799,600,5,113220761,external segment of globus pallidus,,H376.IV.03,/api/v2/well_known_file_download/146039573
+252491511229_1_1,147806261,600,5,127426319,SZ in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819911
+252491511269_2_4,147803217,600,5,113221745,SP in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815676
+252491511280_2_3,147806038,600,5,127426418,inner CP in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820365
+252491511276_2_1,147803085,600,5,113221809,head and face region of M1,,H376.IIIA.02,/api/v2/well_known_file_download/147815688
+252491511105_2_1,147804717,600,5,113221811,upper limb region of M1,,H376.IIIA.02,/api/v2/well_known_file_download/147817261
+252491511077_1_3,127366008,600,5,113220678,outer CP in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149205979
+252491511273_1_2,147806389,600,5,127426867,outer SZ in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820300
+252491511267_1_2,147803028,600,5,13392,lateral orbital frontal cortex (area 12/47),,H376.IIIA.02,/api/v2/well_known_file_download/147815632
+252491511261_2_1,147802934,600,5,13369,intermediate portion of DFC (area 9/46),,H376.IIIA.02,/api/v2/well_known_file_download/147815542
+252491510927_1_1,147804815,600,5,113221790,rostral putamen,,H376.IIIA.02,/api/v2/well_known_file_download/147817125
+252491511267_1_3,147803556,600,5,127408960,inferior colliculus,,H376.IIIA.02,/api/v2/well_known_file_download/147815634
+252491511176_1_1,121079868,600,5,113219347,inner CP in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196071
+252491511136_1_1,121063919,600,5,12938,inner CP in ventromedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123845
+252491511045_2_2,121080337,600,5,113220473,agranular insular cortex (area Iag),,H376.IV.03,/api/v2/well_known_file_download/149195847
+252491510927_1_4,147805512,600,5,113221965,reuniens nucleus (medioventral nucleus) of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817131
+252491511198_2_2,147804951,600,5,127424260,outer SZ in ventromedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817407
+252491511310_1_3,147808105,600,5,127434763,area postrema,,H376.IIIB.02,/api/v2/well_known_file_download/147825673
+252491511281_1_1,147805818,600,5,127409065,IZ in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820369
+252491511204_1_1,147804797,600,5,113221780,SZ in subgenual cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817429
+252491511090_2_1,127366633,600,5,113221529,inner CP in midlateral extrastriate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206234
+252491511228_1_1,147806329,600,5,127426827,medial mammillary nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147819890
+252491511447_1_1,156438294,600,5,127434739,VZ in ventromedial extrastriate cortex (VP),,H376.IIIB.02,/api/v2/well_known_file_download/156887099
+252491510817_2_3,147808063,600,5,127434739,VZ in ventromedial extrastriate cortex (VP),,H376.IIIB.02,/api/v2/well_known_file_download/147825537
+252491511182_1_3,114245688,600,5,12108,MZ in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059683
+252491511099_1_4,121080250,600,5,113220463,medial ganglionic eminence,,H376.IV.03,/api/v2/well_known_file_download/149195978
+252491511212_1_2,147803451,600,5,127403448,inner SZ in ventromedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815038
+252491511450_1_1,156438197,600,5,127434414,reticulotegmental nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887121
+252491511451_2_4,156438191,600,5,127434414,reticulotegmental nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887151
+252491510817_2_2,147807618,600,5,127434414,reticulotegmental nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825535
+252491511230_1_1,147806311,600,5,127426821,rostral division of VL,,H376.IIIB.02,/api/v2/well_known_file_download/147819942
+252491511227_2_1,147805884,600,5,127409152,rostral migratory stream,,H376.IIIB.02,/api/v2/well_known_file_download/147819882
+252491511140_2_4,121063482,600,5,12807,pyramidal layer of rostral subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124016
+252491511195_2_2,147804897,600,5,127400568,reticular nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817359
+252491511255_1_4,147804042,600,5,127402582,VZ in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815442
+252491510959_2_3,146037064,600,5,12885,SP in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/146038920
+252491510813_1_2,147806239,600,5,127426747,arcuate nucleus of hypothalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819852
+252491511148_1_2,121063713,600,5,12867,SP in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124101
+252491511172_2_1,114245511,600,5,12095,central part of CEl,,H376.IV.02,/api/v2/well_known_file_download/121059715
+252491511319_1_3,147807267,600,5,127426992,stratum oriens of rostral CA1,,H376.IIIB.02,/api/v2/well_known_file_download/147825811
+252491510955_1_2,146036775,600,5,113220539,"lateral hypothalamic area, anterior part",,H376.IV.03,/api/v2/well_known_file_download/146039575
+252491511453_2_1,156438073,600,5,127409073,head of caudate,,H376.IIIB.02,/api/v2/well_known_file_download/156887177
+252491511310_2_4,147807036,600,5,127409238,callosal sling,,H376.IIIB.02,/api/v2/well_known_file_download/147825683
+252491511089_2_1,127366164,600,5,113221000,red nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206200
+252491511284_2_4,147806335,600,5,127426829,posterior hypothalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820431
+252491511316_1_2,147807572,600,5,127434383,inner CP in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825761
+252491511266_1_1,147803737,600,5,127407825,solitary nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815614
+252491511258_2_3,147803500,600,5,127408932,SP in dorsomedial extrastriate cortex (V2),,H376.IIIA.02,/api/v2/well_known_file_download/147815497
+252491511274_2_4,147806267,600,5,127426321,VZ in midcingulate neocortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820328
+252491511147_2_4,121063754,600,5,12890,pyramidal layer of caudal subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124097
+252491511104_1_1,147805276,600,5,127407557,outer CP in caudal midinferior temporal cortex (area TF),,H376.IIIA.02,/api/v2/well_known_file_download/147817237
+252491511452_2_3,156438137,600,5,127427023,SP in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887165
+252491510812_2_3,147806564,600,5,127427023,SP in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819846
+252491511053_2_3,121080534,600,5,113220505,nucleus subputaminalis,,H376.IV.03,/api/v2/well_known_file_download/149195900
+252491511152_2_2,121063618,600,5,12839,layer VI of area 35c,,H376.IV.02,/api/v2/well_known_file_download/149124175
+252491511254_2_2,147806766,600,5,127434228,SZ in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820242
+252491511314_2_2,147806762,600,5,127434228,SZ in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820433
+252491511132_2_4,127366606,600,5,113221493,VZ in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206531
+252491511213_2_2,147804132,600,5,113221992,outer CP in granular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815062
+252491511267_2_2,147802926,600,5,13352,MZ in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815640
+252491511227_1_3,147805932,600,5,127409213,layer III of piriform cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819878
+252491511450_1_4,156438216,600,5,127434594,spinal (inferior) vestibular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887127
+252491511454_1_2,156437993,600,5,127407515,SP in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886638
+252491511311_1_2,147807138,600,5,127434784,SP in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825687
+252491511056_2_4,121081286,600,5,113220680,inner CP in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195940
+252491510991_2_3,121081284,600,5,113220680,inner CP in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195763
+252491511058_2_3,121079795,600,5,113219341,SG in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195968
+252491511045_2_1,121080999,600,5,113220591,basolateral nucleus (basal nucleus),,H376.IV.03,/api/v2/well_known_file_download/149195845
+252491511108_2_1,127366210,600,5,113221045,parafascicular nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206347
+252491511205_1_3,147804657,600,5,13377,VZ in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817449
+252491511255_1_2,147803191,600,5,113221723,inner CP in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815438
+252491511190_2_2,114245310,600,5,11995,IZ in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059913
+252491511109_1_4,127366568,600,5,113221483,IZ in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206365
+252491511261_2_2,147803367,600,5,113221918,inner CP in dysgranular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815544
+252491510956_1_4,146036853,600,5,113220697,outer SZ in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039595
+252491511268_2_1,147804239,600,5,113222050,"lateral hypothalamic area, tuberal part",,H376.IIIA.02,/api/v2/well_known_file_download/147815654
+252491511187_2_1,114245352,600,5,12012,core of nucleus accumbens,,H376.IV.02,/api/v2/well_known_file_download/121059635
+252491511281_1_3,147806229,600,5,127426745,rostral subdivision of paraventricular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820373
+252491511056_2_1,121080088,600,5,113220271,outer SZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195934
+252491511260_2_1,147804002,600,5,127401369,"substantia nigra, reticular part",,H376.IIIA.02,/api/v2/well_known_file_download/147815526
+252491511099_2_2,121079978,600,5,113220565,inner CP in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195982
+252491511176_2_4,121081199,600,5,113220670,VZ in midcingulate neocortex,,H376.IV.03,/api/v2/well_known_file_download/149196085
+252491510955_2_1,146036877,600,5,113220955,inner CP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039581
+252491511321_2_3,147808069,600,5,127434741,dorsal motor nucleus of the vagus (vagal nucleus),,H376.IIIB.02,/api/v2/well_known_file_download/147825851
+252491511090_1_3,127366496,600,5,113221453,CP in retrosplenial cortex,,H376.IV.03,/api/v2/well_known_file_download/149206225
+252491510814_2_2,147806794,600,5,127434242,pretectal nuclear complex,,H376.IIIB.02,/api/v2/well_known_file_download/147819868
+252491511317_1_2,147807877,600,5,127434623,inner CP in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825777
+252491511056_2_2,121080060,600,5,113220263,IZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195936
+252491511168_2_3,114245656,600,5,12086,VZ in postamygdaloid region,,H376.IV.02,/api/v2/well_known_file_download/121059775
+252491511186_2_2,114245745,600,5,12129,SG in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059623
+252491511253_2_3,147806022,600,5,127426352,MZ in dysgranular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820228
+252491511108_2_2,127366440,600,5,113221387,SZ in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206350
+252491511104_2_2,147804693,600,5,13354,inner SZ in dorsomedial frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817247
+252491511310_1_2,147808093,600,5,127434759,pontobulbar body,,H376.IIIB.02,/api/v2/well_known_file_download/147825671
+252491511312_2_1,147808087,600,5,127434759,pontobulbar body,,H376.IIIB.02,/api/v2/well_known_file_download/147825709
+252491511263_2_1,147803134,600,5,113221851,core of nucleus accumbens,,H376.IIIA.02,/api/v2/well_known_file_download/147815574
+252491511258_1_2,147803946,600,5,127401326,SP in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815486
+252491511274_1_4,147805956,600,5,127409221,SP in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820320
+252491511089_1_2,127366554,600,5,113221469,SP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206187
+252491511194_1_4,147805126,600,5,127407381,outer SZ in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817339
+252491511197_2_2,147804851,600,5,147800381,corpus callosum,,H376.IIIA.02,/api/v2/well_known_file_download/147817391
+252491511097_1_1,127366134,600,5,113220969,outer CP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206277
+252491511268_2_4,147803314,600,5,147800379,"lateral hypothalamic area, anterior part",,H376.IIIA.02,/api/v2/well_known_file_download/147815660
+252491511280_1_2,147806395,600,5,127426902,MZ in rostral midinferior temporal cortex (area 36),,H376.IIIB.02,/api/v2/well_known_file_download/147820348
+252491511282_2_1,147806461,600,5,127426960,lateral dorsal nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147820393
+252491511250_1_2,147805950,600,5,127409219,inner CP in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820045
+252491511089_2_2,127366098,600,5,113220957,outer CP in granular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149206204
+252491510813_2_2,147806451,600,5,127426946,mediodorsal nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819860
+252491511212_2_3,147803004,600,5,13387,SP in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815048
+252491511102_1_2,121079876,600,5,113219349,SP in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196015
+252491511190_1_4,114245304,600,5,11992,SP in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059909
+252491511053_1_1,121080148,600,5,113220291,VZ in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195888
+252491511475_1_2,147807076,600,5,127434665,inner SZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825963
+252491511162_2_1,121063373,600,5,11986,MZ in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124271
+252491511191_2_4,114245292,600,5,11986,MZ in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059933
+252491511156_1_4,121063518,600,5,12813,layer V of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124221
+252491511258_2_2,147803061,600,5,13366,inner CP in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815494
+252491511193_2_3,147805300,600,5,127401140,dorsal lateral geniculate nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817329
+252491511311_1_3,147806974,600,5,127409112,outer CP in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147825689
+252491510812_1_2,147806538,600,5,127427015,inner CP in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819836
+252491511253_2_1,147806532,600,5,127427015,inner CP in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820224
+252491511215_1_3,147803914,600,5,127403716,outer CP in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815088
+252491511103_1_2,121080161,600,5,113220293,VZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196031
+252491511324_1_2,147807335,600,5,127434240,lateral nucleus of pulvinar,,H376.IIIB.02,/api/v2/well_known_file_download/147825889
+252491511104_1_2,147805390,600,5,127401337,inner SZ in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817239
+252491511320_2_1,147807323,600,5,127434230,VZ in caudal cingulate neocortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825831
+252491511284_1_3,147806772,600,5,127434230,VZ in caudal cingulate neocortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820421
+252491511199_2_4,114245802,600,5,12090,pretectal nuclear complex,,H376.IV.02,/api/v2/well_known_file_download/121059941
+252491511199_2_3,114245800,600,5,12082,pedunculo(pontine) tegmental  nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059939
+252491511153_2_2,121063584,600,5,12830,SP in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124191
+252491511254_1_1,147805836,600,5,127409071,VZ in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820232
+252491511310_2_2,147806946,600,5,127409089,inner CP in subgenual (subcallosal) cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825679
+252491511451_2_1,156438173,600,5,127434404,SP in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/156887145
+252491511314_1_2,147807578,600,5,127434404,SP in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/147825735
+252491510955_2_3,146036907,600,5,113221383,SP in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/146039585
+252491511157_1_2,121063408,600,5,12795,parasubicular cortex (parasubiculum),,H376.IV.02,/api/v2/well_known_file_download/149124231
+252491511259_2_1,147803632,600,5,127407389,dentate (lateral) nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815509
+252491511214_1_4,147803426,600,5,127400713,ventral posterior inferior nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815074
+252491511323_2_2,147807311,600,5,127434101,interpeduncular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825881
+252491511267_1_4,147803356,600,5,113221916,outer CP in dysgranular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815636
+252491511476_1_3,147807233,600,5,127426938,medial intermediate part of entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825981
+252491511156_2_4,121063553,600,5,12823,MZ in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149124229
+252491511098_2_1,127366657,600,5,113221535,outer SZ in midlateral extrastriate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206321
+252491511096_1_4,127366651,600,5,113221535,outer SZ in midlateral extrastriate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206262
+252491511198_2_3,147805590,600,5,113222054,anterior amygdaloid area,,H376.IIIA.02,/api/v2/well_known_file_download/147817409
+252491511198_1_1,147805584,600,5,113222054,anterior amygdaloid area,,H376.IIIA.02,/api/v2/well_known_file_download/147817397
+252491511228_2_4,147805726,600,5,127374025,outer CP in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819905
+252491511089_1_1,127366336,600,5,113221117,outer SZ in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206183
+252491511142_2_2,121063882,600,5,12927,SG in midlateral extrastriate cortex (area 19),,H376.IV.02,/api/v2/well_known_file_download/149124028
+252491511153_1_1,121063568,600,5,12827,outer CP in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124181
+252491510933_1_2,147805486,600,5,127401210,pretectal nuclear complex,,H376.IIIA.02,/api/v2/well_known_file_download/147817207
+252491511228_2_2,147805854,600,5,127409095,VZ in subgenual cingulate neocortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819900
+252491511325_2_1,147805962,600,5,127409225,SZ in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820447
+252491511159_2_1,114245766,600,5,12033,SG in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059849
+252491511257_1_2,147803102,600,5,113221819,medial ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147815470
+252491511266_2_1,147804018,600,5,127401377,SP in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815622
+252491511195_2_1,147804733,600,5,113221817,lateral septal nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817357
+252491511154_2_2,127366586,600,5,113221487,inner SZ in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206535
+252491511109_1_2,127366358,600,5,113221125,lateral habenular nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206360
+252491510813_2_1,147806225,600,5,127426743,ventral anterior nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819858
+252491510960_1_1,146037058,600,5,12898,SP in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/146038924
+252491511145_2_1,121063799,600,5,12898,SP in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124058
+252491511045_1_3,121080018,600,5,113220253,inner CP in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195841
+252491511198_1_4,147804957,600,5,127403450,outer SZ in midlateral extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817403
+252491510814_2_4,147805760,600,5,127374107,outer SZ in dorsolateral prefrontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819872
+252491511267_2_4,147803383,600,5,113221937,outer portion of medial ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147815644
+252491511106_2_1,147805042,600,5,127408946,principal sensory nucleus of trigeminal nerve,,H376.IIIA.02,/api/v2/well_known_file_download/147817277
+252491511080_1_1,127366370,600,5,113221152,outer CP in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206086
+252491511079_1_4,127366194,600,5,113221041,lateral dorsal nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206072
+252491511135_2_3,121064049,600,5,12960,inner SZ in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123849
+252491511190_2_3,114245313,600,5,11996,outer SZ in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059915
+252491511046_2_3,121081007,600,5,113220593,endopiriform nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195865
+252491511107_1_1,147804861,600,5,113221914,medioventral part of putamen,,H376.IIIA.02,/api/v2/well_known_file_download/147817285
+252491511472_1_4,147807778,600,5,127434582,inferior colliculus,,H376.IIIB.02,/api/v2/well_known_file_download/147825919
+252491511255_2_2,147803580,600,5,127407352,inner CP in medial temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815446
+252491511197_1_4,147804687,600,5,13368,outer SZ in dorsomedial frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817387
+252491511201_2_4,114245756,600,5,12035,rostral migratory stream,,H376.IV.02,/api/v2/well_known_file_download/121059957
+252491510930_2_2,147805578,600,5,113222052,central portion of GPi,,H376.IIIA.02,/api/v2/well_known_file_download/147817167
+252491511299_2_2,147807012,600,5,127409984,outer portion of medial ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147825647
+252491511158_1_3,114245786,600,5,12098,SG in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059867
+252491511256_2_3,147803036,600,5,13362,laterodorsal subdivision of area 8,,H376.IIIA.02,/api/v2/well_known_file_download/147815464
+252491511277_1_3,147803588,600,5,127407354,outer CP in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815700
+252491511079_2_1,127366719,600,5,113221580,VZ in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206075
+252491511451_2_2,156438179,600,5,127434406,IZ in caudal midinferior temporal cortex (area TF),,H376.IIIB.02,/api/v2/well_known_file_download/156887147
+252491511204_1_2,147805438,600,5,127402576,IZ in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817431
+252491511276_2_2,147803516,600,5,127404176,outer SZ in dorsomedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815690
+252491511059_1_1,127365478,600,5,12800,stratum lacunosum-moleculare of rostral CA1,,H376.IV.02,/api/v2/well_known_file_download/149203496
+252491511161_2_3,121063830,600,5,12906,SP in dorsomedial parietal cortex (area 7m),,H376.IV.02,/api/v2/well_known_file_download/149124259
+252491511056_1_2,121081112,600,5,113220624,outer CP in midinferior temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195930
+252491511197_1_3,147805330,600,5,127401256,MZ in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817385
+252491510959_2_2,146037052,600,5,12897,inner CP in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/146038918
+252491510960_2_1,146037046,600,5,12897,inner CP in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/146038932
+252491511258_1_1,147803850,600,5,127408524,lateral habenular nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815484
+252491511147_1_1,121063733,600,5,12876,stratum radiatum of caudal CA1,,H376.IV.02,/api/v2/well_known_file_download/149124083
+252491511197_2_3,147805450,600,5,127402586,SG in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817393
+252491511195_1_4,147805384,600,5,127424203,IZ in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817355
+252491511187_1_2,114245394,600,5,12026,lateral ganglionic eminence,,H376.IV.02,/api/v2/well_known_file_download/121059629
+252491511265_1_2,147803249,600,5,113221761,VZ in posteror frontal cortex (motor cortex),,H376.IIIA.02,/api/v2/well_known_file_download/147815600
+252491511096_2_4,127366707,600,5,113221576,outer SZ in posterosuperior (dorsal) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206274
+252491510932_1_4,147805360,600,5,127401324,SP in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817195
+252491511192_1_2,147805270,600,5,127407545,VZ in caudal cingulate neocortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817303
+252491511046_2_2,121081408,600,5,113220734,posterior cortical nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195863
+252491511254_2_3,147805788,600,5,127409129,IZ in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820244
+252491511263_1_1,147803524,600,5,127404178,inner SZ in dorsomedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815566
+252491511265_2_1,147803233,600,5,113221751,IZ in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815606
+252491510956_1_1,146036841,600,5,113220664,SP in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/146039589
+252491511159_1_1,114245750,600,5,12008,inner SZ in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059857
+252491510954_2_2,146036751,600,5,113220501,IZ in dysgranular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/146039567
+252491511269_1_2,147804026,600,5,127402578,outer SZ in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815664
+252491511142_1_3,121063873,600,5,12924,inner SZ in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124022
+252491511106_2_3,147805024,600,5,127404182,VZ in dorsomedial extrastriate cortex (V2),,H376.IIIA.02,/api/v2/well_known_file_download/147817281
+252491511315_2_3,147807901,600,5,127434648,hypoglossal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825755
+252491511250_2_4,147805830,600,5,127409069,inner SZ in posteror frontal cortex (motor cortex),,H376.IIIB.02,/api/v2/well_known_file_download/147820083
+252491510934_1_4,147804761,600,5,113221721,outer CP in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817227
+252491511281_2_4,147806520,600,5,127427000,pyramidal layer of rostral subiculum,,H376.IIIB.02,/api/v2/well_known_file_download/147820383
+252491511087_2_2,127366300,600,5,113221092,IZ in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206112
+252491511170_1_3,114245548,600,5,12145,MZ in rostral entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059747
+252491511198_1_3,147804739,600,5,113221823,callosal sling,,H376.IIIA.02,/api/v2/well_known_file_download/147817401
+252491511215_1_1,147803930,600,5,127401286,inner CP in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815084
+252491511080_2_3,127366472,600,5,113221397,inferior nucleus of pulvinar,,H376.IV.03,/api/v2/well_known_file_download/149206098
+252491511184_1_1,114245424,600,5,12030,IZ in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059579
+252491511260_2_2,147803375,600,5,113221922,IZ in dysgranular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815528
+252491510934_1_2,147804933,600,5,127424250,inner CP in ventromedial extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817223
+252491511274_1_2,147806347,600,5,127426833,MZ in posteroventral (inferior) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820316
+252491510956_2_3,146036835,600,5,113220626,inner CP in midinferior temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039601
+252491510957_1_4,146036829,600,5,113220626,inner CP in midinferior temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039611
+252491511275_1_4,147806285,600,5,127426327,internal segment of globus pallidus,,H376.IIIB.02,/api/v2/well_known_file_download/147820336
+252491511162_1_1,121064209,600,5,12962,inner SZ in dorsomedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124263
+252491510931_1_3,147804791,600,5,113221759,SZ in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817177
+252491510959_1_1,146036992,600,5,12000,VZ in rostral cingulate neocortex,,H376.IV.02,/api/v2/well_known_file_download/146038908
+252491511148_2_4,121063730,600,5,12874,subgranular zone of caudal dentate gyrus,,H376.IV.02,/api/v2/well_known_file_download/149124113
+252491510932_2_2,147804633,600,5,13373,SP in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817199
+252491511176_1_2,121079986,600,5,113219484,outer CP in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196073
+252491510932_1_1,147804891,600,5,113221945,paraventricular nucleus of hypothalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817189
+252491511102_1_3,121081376,600,5,113220726,medial mammillary nucleus,,H376.IV.03,/api/v2/well_known_file_download/149196017
+252491511275_2_1,147806243,600,5,127426749,lateral tuberal nuclei,,H376.IIIB.02,/api/v2/well_known_file_download/147820338
+252491511166_1_4,121063382,600,5,12027,inner CP in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/149124295
+252491511185_2_2,114245415,600,5,12027,inner CP in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059603
+252491511315_1_1,147806898,600,5,127374037,VZ in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825743
+252491511200_2_2,114245770,600,5,12051,layer I of piriform cortex,,H376.IV.02,/api/v2/well_known_file_download/121059945
+252491511283_2_4,147806365,600,5,127426859,inner CP in primary auditory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820415
+252491510813_1_1,147806193,600,5,127426717,caudal putamen,,H376.IIIB.02,/api/v2/well_known_file_download/147819850
+252491510959_2_4,146037070,600,5,12902,MZ in retrosplenial cortex,,H376.IV.02,/api/v2/well_known_file_download/146038922
+252491511204_2_3,147805090,600,3.01071428571429,127407336,abducens nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817441
+252491511263_2_3,147803175,600,3.7,113221715,MZ in rostral cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815578
+252491511189_1_1,114245319,600,5,11999,VZ in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059661
+252491511176_2_1,121081023,600,5,113220612,dorsomedial hypothalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149196079
+252491511266_2_3,147804116,600,5,113221977,outer CP in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815626
+252491511174_1_1,121081262,600,5,113220676,MZ in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196057
+252491511149_2_2,121063701,600,5,12864,MZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124127
+252491511130_2_1,121063699,600,5,12864,MZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123873
+252491510952_1_3,146036726,600,5,113219343,MZ in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/146039553
+252491511263_1_2,147803069,600,5,13367,SP in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815568
+252491511310_2_1,147807094,600,5,127426668,central portion of GPi,,H376.IIIB.02,/api/v2/well_known_file_download/147825677
+252491511174_2_2,121079904,600,5,113219355,VZ in rostral cingulate neocortex,,H376.IV.03,/api/v2/well_known_file_download/149196067
+252491511212_2_1,147803077,600,5,13355,outer SZ in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815044
+252491511322_1_2,147807279,600,5,127433860,deep layers of caudal entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825857
+252491511280_1_1,147806644,600,5,127433860,deep layers of caudal entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820346
+252491511136_1_2,121063922,600,5,12939,SP in ventromedial extrastriate cortex (VP),,H376.IV.02,/api/v2/well_known_file_download/149123843
+252491511098_1_3,127366330,600,5,113221115,inner SZ in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206317
+252491511473_2_2,147808011,600,5,127434712,outer SZ in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825939
+252491511176_1_4,121080068,600,5,113220265,IZ in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196077
+252491510931_1_1,147805072,600,5,127407330,nucleus coeruleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817173
+252491511454_1_3,156437999,600,5,127407549,pontine nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/156886640
+252491511299_2_4,147808125,600,5,127434782,gracile nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825651
+252491511131_2_1,114245626,600,5,12076,medial habenular nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059881
+252491511268_1_4,147803986,600,5,127401363,VZ in superolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815652
+252491511475_1_3,147807668,600,5,127434467,CP in caudal hippocampus,,H376.IIIB.02,/api/v2/well_known_file_download/147825965
+252491511282_1_2,147805776,600,5,127409123,outer CP in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820387
+252491511195_1_2,147804699,600,5,13356,inner SZ in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817351
+252491511322_1_3,147807144,600,5,127434786,IZ in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825859
+252491511300_2_3,147807442,600,5,127434308,outer SZ in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825665
+252491510816_2_4,147807436,600,5,127434308,outer SZ in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825523
+252491510955_1_3,146036811,600,5,113220585,basal nucleus of Meynert,,H376.IV.03,/api/v2/well_known_file_download/146039577
+252491511315_1_2,147808027,600,5,127434729,inner SZ in dorsomedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825745
+252491511227_2_4,147805908,600,5,127409980,outer portion of lateral ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147819888
+252491511325_1_3,147806297,600,5,127426803,zona incerta,,H376.IIIB.02,/api/v2/well_known_file_download/147820443
+252491511229_1_2,147806680,600,5,127434091,SG in caudal perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819916
+252491511196_2_1,147805066,600,5,127408958,cochlear nuclei,,H376.IIIA.02,/api/v2/well_known_file_download/147817373
+252491511169_2_1,114245578,600,5,12058,bed nucleus of stria terminalis,,H376.IV.02,/api/v2/well_known_file_download/121059763
+252491511169_1_4,114245576,600,5,12058,bed nucleus of stria terminalis,,H376.IV.02,/api/v2/well_known_file_download/121059765
+252491511229_1_3,147806044,600,5,127426420,outer CP in dysgranular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819920
+252491511096_2_2,127366146,600,5,113220992,"substantia nigra, compact part",,H376.IV.03,/api/v2/well_known_file_download/149206268
+252491511087_2_4,127366140,600,5,113220992,"substantia nigra, compact part",,H376.IV.03,/api/v2/well_known_file_download/149206116
+252491511155_2_2,121063777,600,5,12882,MZ in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124209
+252491511199_2_1,114245778,600,5,12115,outer SZ in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059935
+252491510957_2_4,146036739,600,5,113220269,inner SZ in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039620
+252491510992_2_2,121080036,600,5,113220257,SP in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195777
+252491511284_1_4,147806508,600,5,127426994,stratum pyramidale of rostral CA3,,H376.IIIB.02,/api/v2/well_known_file_download/147820423
+252491511313_1_1,147807680,600,5,127434471,superior colliculus,,H376.IIIB.02,/api/v2/well_known_file_download/147825717
+252491511186_2_3,114245748,600,5,12130,MZ in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059625
+252491511167_1_2,114245662,600,5,12088,"substantia nigra, reticular part",,H376.IV.02,/api/v2/well_known_file_download/121059799
+252491511190_1_1,114245295,600,5,11987,MZ in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059903
+252491511280_1_4,147806481,600,5,127426974,centromedian nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147820359
+252491511107_1_4,147805468,600,5,127402588,outer CP in posterior parahippocampal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817291
+252491511448_2_1,156438270,600,5,127434710,IZ in dorsomedial extrastriate cortex (V2),,H376.IIIB.02,/api/v2/well_known_file_download/156887111
+252491511330_2_2,147808003,600,5,127434710,IZ in dorsomedial extrastriate cortex (V2),,H376.IIIB.02,/api/v2/well_known_file_download/147825907
+252491511046_1_3,121080076,600,5,113220267,outer SZ in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195857
+252491511260_1_3,147804124,600,5,113221990,CP in temporal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815521
+252491511251_1_1,147806638,600,5,127433778,layer III of caudal entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820088
+252491511183_2_4,114245679,600,5,12104,SP in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059577
+252491511453_1_4,156438067,600,4,127409125,inner CP in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887175
+252491511452_2_1,156438124,600,5,127426729,basolateral nucleus (basal nucleus),,H376.IIIB.02,/api/v2/well_known_file_download/156887161
+252491511171_2_3,114245545,600,5,12144,layer II of rostral entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059725
+252491511146_2_2,121063772,600,5,12881,VZ in caudal cingulate neocortex,,H376.IV.02,/api/v2/well_known_file_download/149124077
+252491511154_2_1,127366238,600,5,113221051,inner CP in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206533
+252491511110_2_4,127366232,600,5,113221051,inner CP in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206467
+252491511143_2_3,121063857,600,5,12918,SP in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124046
+252491511136_1_3,121063933,600,5,12941,outer SZ in ventromedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123841
+252491511322_1_1,147807802,600,5,127434590,gigantocellular reticular nuclei,,H376.IIIB.02,/api/v2/well_known_file_download/147825855
+252491511110_1_3,127366152,600,5,113220994,"substantia nigra, reticular part",,H376.IV.03,/api/v2/well_known_file_download/149206446
+252491511176_2_2,121081392,600,5,113220730,central part of CEl,,H376.IV.03,/api/v2/well_known_file_download/149196081
+252491511089_2_4,127366663,600,5,113221537,inner SZ in midlateral extrastriate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206212
+252491511188_1_1,114245367,600,5,12017,MZ in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059643
+252491511455_2_4,156437981,600,5,127407447,external granular (germinal) layer of lower rhombic lip,,H376.IIIA.02,/api/v2/well_known_file_download/156886664
+252491511250_1_3,147806255,600,5,127426753,outer CP in midcingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820053
+252491511270_2_4,147806152,600,5,127426676,amygdalostriatal transition area,,H376.IIIB.02,/api/v2/well_known_file_download/147820262
+252491511052_1_3,121080320,600,5,113220471,medial portion of the shell,,H376.IV.03,/api/v2/well_known_file_download/149195875
+252491511262_1_2,147803298,600,5,113221878,agranular insular cortex (area Iag),,H376.IIIA.02,/api/v2/well_known_file_download/147815552
+252491511164_2_3,114245478,600,5,12134,basomedial nucleus (accessory basal nucleus),,H376.IV.02,/api/v2/well_known_file_download/121059829
+252491511058_1_3,121080414,600,5,113220495,outer CP in dysgranular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149195960
+252491511088_1_3,127366452,600,5,113221391,inner CP in caudal cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149206126
+252491511195_1_3,147804615,600,5,13349,inner SZ in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817353
+252491511204_2_4,147805426,600,5,127424211,VZ in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817443
+252491511137_1_2,121063896,600,5,12931,SP in midlateral extrastriate cortex (area 19),,H376.IV.02,/api/v2/well_known_file_download/149123955
+252491511256_1_2,147803052,600,5,13365,outer CP in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815454
+252491511189_2_2,114245334,600,5,12005,SP in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059897
+252491511135_2_2,121064038,600,5,12959,outer SZ in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123851
+252491511324_2_2,147807191,600,5,127426855,inner CP in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825897
+252491511251_1_2,147806359,600,5,127426857,outer CP in primary auditory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820092
+252491511273_2_2,147806353,600,5,127426857,outer CP in primary auditory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820308
+252491511159_1_4,114245762,600,5,12040,MZ in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059851
+252491510930_2_1,147805554,600,5,113222018,VZ in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817165
+252491511192_1_4,147805548,600,5,113222018,VZ in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817307
+252491510859_2_2,147804675,600,5,13390,inner SZ in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817119
+252491511261_1_3,147803978,600,5,127401202,VZ in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815538
+252491511323_1_3,147807261,600,5,127426972,ventral posterior inferior nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825875
+252491511132_2_2,127366550,600,5,113221467,SP in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206526
+252491511146_1_2,121063760,600,5,12892,caudal presubiculum (postsubiculum),,H376.IV.02,/api/v2/well_known_file_download/149124069
+252491511045_1_4,121081332,600,5,113220701,VZ in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195843
+252491511054_1_2,127365566,600,5,12871,VZ in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149203484
+252491511148_1_4,121063719,600,5,12871,VZ in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124105
+252491511088_2_1,127366060,600,5,113248009,subthalamic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206132
+252491511473_1_3,147806962,600,5,127409097,SZ in subgenual cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825933
+252491511311_2_3,147806992,600,5,127409974,medial septal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825697
+252491511297_2_3,147807528,600,5,127434371,inner SZ in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825617
+252491511318_2_3,147807522,600,5,127434371,inner SZ in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825803
+252491510927_2_2,147804963,600,5,127403452,inner SZ in midlateral extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817135
+252491511253_2_2,147806165,600,5,127426682,"lateral hypothalamic area, tuberal part",,H376.IIIB.02,/api/v2/well_known_file_download/147820226
+252491511059_2_3,127365526,600,5,12914,inner CP in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149203508
+252491511152_2_4,121063624,600,5,12842,lateral parabrachial nucleus,,H376.IV.02,/api/v2/well_known_file_download/149124179
+252491511056_2_3,121079912,600,5,113219357,head of caudate,,H376.IV.03,/api/v2/well_known_file_download/149195938
+252491511229_2_3,147805806,600,5,127409135,VZ in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819934
+252491511110_1_1,127366502,600,5,113221455,MZ in posteroventral (inferior) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206378
+252491510859_1_4,147805258,600,5,127407541,SZ in caudal cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817115
+252491511054_1_3,121079815,600,5,12967,inner CP in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195906
+252491511202_2_2,147805462,600,5,127401142,medial geniculate nuclei,,H376.IIIA.02,/api/v2/well_known_file_download/147817423
+252491510956_2_4,146036787,600,5,113220557,outer CP in rostral perirhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039603
+252491510957_2_1,146036781,600,5,113220557,outer CP in rostral perirhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/146039613
+252491511257_2_1,147803826,600,5,127407622,SP in caudal hippocampal proper,,H376.IIIA.02,/api/v2/well_known_file_download/147815476
+252491511312_1_1,147807933,600,5,127434675,MZ in ventromedial extrastriate cortex (VP),,H376.IIIB.02,/api/v2/well_known_file_download/147825701
+252491511274_1_3,147806784,600,5,127434238,pedunculo(pontine) tegmental  nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820318
+252491511259_1_4,147804148,600,5,113221996,SP in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815507
+252491511189_2_1,114245331,600,5,12004,inner CP in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059669
+252491511189_1_4,114245329,600,5,12004,inner CP in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059667
+252491511046_1_2,121080856,600,5,113220555,MZ in rostral perirhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195855
+252491511213_2_4,147803754,600,5,127407831,rostral ventral respiratory cell group,,H376.IIIA.02,/api/v2/well_known_file_download/147815066
+252491511143_1_2,121063842,600,5,12911,MZ in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124036
+252491511321_1_3,147807341,600,5,127434264,granular layer of caudal dentate gyrus,,H376.IIIB.02,/api/v2/well_known_file_download/147825843
+252491510817_2_1,147807367,600,5,127434272,stratum oriens of caudal CA1,,H376.IIIB.02,/api/v2/well_known_file_download/147825533
+252491511169_1_2,114245569,600,5,12056,Dorsal claustrum,,H376.IV.02,/api/v2/well_known_file_download/121059769
+252491511323_2_3,147808075,600,5,127434755,solitary nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825883
+252491511106_1_3,147804827,600,5,113221882,Ventral pallidus,,H376.IIIA.02,/api/v2/well_known_file_download/147817273
+252491511174_1_3,121081324,600,5,113220699,inner SZ in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196061
+252491511150_2_1,121063667,600,5,12856,VZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124141
+252491511191_2_1,114245283,600,5,11983,inner CP in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059927
+252491511148_2_1,121063727,600,5,12873,granular layer of caudal dentate gyrus,,H376.IV.02,/api/v2/well_known_file_download/149124107
+252491511195_2_4,147805354,600,5,127401296,SP in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817363
+252491511205_2_1,147804873,600,5,113221924,inner portion of medial ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147817453
+252491511266_2_4,147803391,600,5,113221941,lower limb region of M1,,H376.IIIA.02,/api/v2/well_known_file_download/147815628
+252491511101_2_3,121080108,600,5,113220287,outer SZ in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196009
+252491511316_2_1,147807993,600,5,127434708,SP in ventromedial extrastriate cortex (VP),,H376.IIIB.02,/api/v2/well_known_file_download/147825767
+252491511254_2_1,147806183,600,5,127426715,olfactory part of entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820240
+252491511162_1_3,121064327,600,5,12964,VZ in dorsomedial extrastriate cortex (V2),,H376.IV.02,/api/v2/well_known_file_download/149124267
+252491511054_2_3,121079894,600,5,113220563,SZ in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149195912
+252491511323_1_4,147808119,600,5,127434767,cuneate nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825877
+252491511153_1_4,121063578,600,5,12828,inner CP in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124187
+252491511153_1_3,121063576,600,5,12828,inner CP in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124185
+252491511253_2_4,147806650,600,5,127433862,MZ in caudal perirhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820230
+252491511158_2_4,114245792,600,5,12062,SG in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059859
+252491511105_1_4,147805444,600,5,127402584,VZ in caudal subicular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817259
+252491511213_1_1,147803443,600,5,127424254,inner CP in midlateral extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815052
+252491511105_2_3,147805084,600,4.00714285714286,127407334,raphe magnus nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817265
+252491511205_1_1,147804939,600,5,127424256,SP in ventromedial extrastriate cortex (VP),,H376.IIIA.02,/api/v2/well_known_file_download/147817445
+252491510859_1_3,147804803,600,5,113221786,outer portion of lateral ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147817113
+252491511311_2_4,147807504,600,5,127434351,IZ in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825699
+252491511166_2_1,121063385,600,5,12102,outer CP in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124297
+252491511160_1_2,114245774,600,5,12102,outer CP in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059843
+252491511453_2_4,156438094,600,5,127426416,outer CP in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887183
+252491511453_2_3,156438085,600,5,127426416,outer CP in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887181
+252491511153_2_4,121063590,600,5,12832,IZ in superolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124195
+252491511204_2_1,147805054,600,3.5593220338983,127408954,medial parabrachial nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817437
+252491511136_2_4,121063948,600,5,12950,MZ in dorsomedial extrastriate cortex (V2),,H376.IV.02,/api/v2/well_known_file_download/149123951
+252491511143_1_4,121063848,600,5,12913,outer CP in medial temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124040
+252491511096_2_1,127366276,600,5,113221084,SP in posteror frontal cortex (motor cortex),,H376.IV.03,/api/v2/well_known_file_download/149206265
+252491511138_1_2,121063542,600,5,12820,rostral presubiculum,,H376.IV.02,/api/v2/well_known_file_download/149123971
+252491511190_2_4,114245316,600,5,11997,inner SZ in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059917
+252491511088_2_4,127366540,600,5,113221465,inner CP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206179
+252491511176_1_3,121080002,600,5,113219486,inner CP in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196075
+252491511055_2_2,121080000,600,5,113219486,inner CP in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195922
+252491511102_2_1,121079832,600,5,113219345,IZ in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149196021
+252491511272_1_1,147806600,600,5,127433764,VZ in posterosuperior (dorsal) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820280
+252491511310_1_4,147807624,600,5,127434416,inner CP in inferolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825675
+252491511145_2_2,121063803,600,5,12899,IZ in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124060
+252491511275_1_1,147806140,600,5,127426672,basomedial nucleus (accessory basal nucleus),,H376.IIIB.02,/api/v2/well_known_file_download/147820330
+252491511185_2_3,114245418,600,5,12028,SP in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059609
+252491511146_2_1,121063769,600,5,12894,VZ in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124075
+252491511324_1_4,147807305,600,5,127434094,anterior nucleus of pulvinar,,H376.IIIB.02,/api/v2/well_known_file_download/147825893
+252491510956_2_1,146036805,600,5,113220581,Dorsal claustrum,,H376.IV.03,/api/v2/well_known_file_download/146039597
+252491511142_2_4,121063888,600,5,12929,outer CP in midlateral extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124032
+252491511317_1_3,147806884,600,5,127374033,outer SZ in frontal polar cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825779
+252491511211_1_2,147803922,600,5,127403718,inner CP in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815021
+252491511277_2_1,147803118,600,5,113221821,lateral ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147815704
+252491511276_1_4,147803116,600,5,113221821,lateral ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147815686
+252491511055_2_3,121080135,600,5,113220289,inner SZ in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195924
+252491511473_1_1,147807207,600,5,127426900,VZ in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825929
+252491511185_2_4,114245421,600,5,12029,SP in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059611
+252491511257_1_4,147803858,600,5,127408526,medial habenular nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815474
+252491511096_1_2,127366514,600,5,113221459,outer CP in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206254
+252491511164_1_4,114245469,600,5,12132,rostral subdivision of medial nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059835
+252491511151_2_2,121063642,600,5,12849,IZ in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124159
+252491511259_2_3,147804086,600,5,127401212,midbrain reticular formation,,H376.IIIA.02,/api/v2/well_known_file_download/147815513
+252491511146_2_4,121063780,600,5,12896,outer CP in posterior parahippocampal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124081
+252491511270_1_2,147806612,600,5,127433770,basal ventral medial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820250
+252491511310_2_3,147807373,600,5,127434274,stratum pyramidale of caudal CA2,,H376.IIIB.02,/api/v2/well_known_file_download/147825681
+252491511151_2_3,121063645,600,5,12850,IZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124161
+252491511229_1_4,147805914,600,5,127409982,inner portion of medial ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147819923
+252491510814_2_3,147806307,600,5,127426817,lateral nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147819870
+252491511166_2_3,121063391,600,5,12065,outer CP in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/149124301
+252491511165_1_4,114245593,600,5,12065,outer CP in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059815
+252491511230_2_3,147805878,600,5,127409150,lateral ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147820022
+252491511320_1_1,147807030,600,5,127409223,IZ in rostral cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825823
+252491511078_2_2,127366182,600,5,113221037,ventral posterior medial nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206053
+252491511211_1_1,147803624,600,5,127407387,VZ in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815019
+252491511156_1_2,121063491,600,5,12808,polymorphic layer of rostral subiculum,,H376.IV.02,/api/v2/well_known_file_download/149124217
+252491511192_1_3,147805048,600,5,127408948,transient Purkinje cell clusters,,H376.IIIA.02,/api/v2/well_known_file_download/147817305
+252491511472_1_1,147807187,600,5,127426853,outer CP in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825913
+252491511159_2_2,114245768,600,5,12044,body of caudate,,H376.IV.02,/api/v2/well_known_file_download/121059847
+252491511262_2_4,147802910,600,5,13350,VZ in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815564
+252491511288_1_1,147807217,600,5,127434769,inner CP in (rostral) midinferior temporal cortex (area 36),,H376.IIIB.02,/api/v2/well_known_file_download/147825541
+252491511312_2_4,147807211,600,5,127434769,inner CP in (rostral) midinferior temporal cortex (area 36),,H376.IIIB.02,/api/v2/well_known_file_download/147825715
+252491510954_2_1,146036757,600,5,113220738,inner CP in temporal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/146039565
+252491511297_1_4,147807428,600,5,127434306,IZ in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825611
+252491511147_1_3,121063739,600,5,12878,stratum oriens of caudal CA1,,H376.IV.02,/api/v2/well_known_file_download/149124087
+252491511257_2_4,147803665,600,5,127407435,"inferior olive, principal nucleus",,H376.IIIA.02,/api/v2/well_known_file_download/147815482
+252491511256_1_1,147803663,600,5,127407435,"inferior olive, principal nucleus",,H376.IIIA.02,/api/v2/well_known_file_download/147815452
+252491511090_2_4,127366390,600,5,113221158,dorsal lateral geniculate nucleus,,H376.IV.03,/api/v2/well_known_file_download/149206246
+252491510816_2_3,147807554,600,5,127434379,VZ in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825521
+252491511450_2_2,156438228,600,5,127434615,VZ in medial temporal-occipital cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887131
+252491511156_2_2,121063531,600,5,12817,SG in caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124225
+252491510812_2_1,147806734,600,5,127434206,outer CP in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819842
+252491511157_2_2,121063438,600,5,12801,stratum radiatum of rostral CA1,,H376.IV.02,/api/v2/well_known_file_download/149124239
+252491511186_2_1,114245742,600,5,12128,SZ in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059621
+252491511193_2_2,147804711,600,5,13358,VZ in dorsolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817327
+252491511163_1_1,121063397,600,5,12100,outer CP in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124279
+252491511171_1_1,114245527,600,5,12100,outer CP in midinferior temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059695
+252491511106_1_2,147805366,600,5,127401328,IZ in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817271
+252491511098_2_2,127366669,600,5,113221539,VZ in midlateral extrastriate cortex (area 19),,H376.IV.03,/api/v2/well_known_file_download/149206323
+252491510992_2_3,121079928,600,5,113219470,outer CP in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149195779
+252491511448_2_3,156438282,600,5,127434733,inner SZ in ventromedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887115
+252491511447_1_2,156438300,600,5,127434473,medial superior olive,,H376.IIIB.02,/api/v2/well_known_file_download/156887101
+252491510992_1_1,121081252,600,5,113220674,MZ in dorsomedial frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195767
+252491510932_2_4,147804609,600,5,13348,outer SZ in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817203
+252491511473_1_4,147807538,600,5,127434373,outer SZ in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825935
+252491511321_2_1,147807171,600,5,127426807,subthalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825847
+252491511145_2_4,121063809,600,5,12900,SG in dorsomedial parietal cortex (area 7m),,H376.IV.02,/api/v2/well_known_file_download/149124064
+252491510992_1_3,121080180,600,5,113220295,VZ in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195771
+252491511289_2_4,147807716,600,5,127434509,principal sensory nucleus of trigeminal nerve,,H376.IIIB.02,/api/v2/well_known_file_download/147825571
+252491510817_1_1,147807237,600,5,127426962,magnocellular (medial) division of MD,,H376.IIIB.02,/api/v2/well_known_file_download/147825525
+252491511251_2_3,147806467,600,5,127426962,magnocellular (medial) division of MD,,H376.IIIB.02,/api/v2/well_known_file_download/147820116
+252491511165_1_1,114245484,600,5,12136,subthalamic nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059825
+252491511171_1_4,114245536,600,5,12142,red nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059731
+252491511140_2_2,121063468,600,5,12805,stratum pyramidale of rostral CA3,,H376.IV.02,/api/v2/well_known_file_download/149124012
+252491511298_1_1,147807347,600,5,127434266,stratum lacunosum-moleculare of caudal CA1,,H376.IIIB.02,/api/v2/well_known_file_download/147825621
+252491511135_1_1,121063951,600,5,12951,outer CP in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123861
+252491511175_2_2,127366564,600,5,113221582,IZ in posteroinferior (ventral) parietal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206551
+252491511137_2_1,121063905,600,5,12934,inner SZ in midlateral extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123961
+252491511056_1_3,121080044,600,5,113220259,SP in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195932
+252491510932_2_1,147805342,600,5,127408544,outer CP in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817197
+252491510859_2_1,147804845,600,5,113221888,bed nucleus of stria terminalis,,H376.IIIA.02,/api/v2/well_known_file_download/147817117
+252491510859_1_1,147805132,600,5,127407383,inner SZ in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817109
+252491511452_1_3,156438112,600,4,127426583,anterior hypothalamic nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/156887157
+252491511165_2_3,114245493,600,5,12139,IZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059809
+252491511196_2_3,147805494,600,5,127401214,limitans nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817377
+252491511317_2_3,147807927,600,5,127434673,MZ in dorsomedial extrastriate cortex (V2),,H376.IIIB.02,/api/v2/well_known_file_download/147825787
+252491511190_1_3,114245301,600,5,11990,outer CP in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059907
+252491511214_2_2,147803282,600,5,113221784,inner portion of lateral ganglionic eminence,,H376.IIIA.02,/api/v2/well_known_file_download/147815078
+252491511131_1_3,114245445,600,5,12047,reticular nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059885
+252491511105_1_2,147804867,600,5,113221920,SP in dysgranular insular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817255
+252491511054_2_4,127365582,600,5,12879,stratum pyramidale of caudal CA2,,H376.IV.02,/api/v2/well_known_file_download/149203488
+252491511059_1_2,127365486,600,5,12816,VZ in caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149203498
+252491511136_2_3,121063945,600,5,12949,MZ in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149123949
+252491510930_2_3,147805005,600,5,127404170,IZ in dorsomedial extrastriate cortex (V2),,H376.IIIA.02,/api/v2/well_known_file_download/147817169
+252491511138_2_4,121063564,600,5,12826,inner CP in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149123984
+252491511284_2_1,147806171,600,5,127426684,VZ in thalamic region,,H376.IIIB.02,/api/v2/well_known_file_download/147820425
+252491511096_1_1,127366288,600,5,113221088,SP in primary auditory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206250
+252491511272_2_1,147806722,600,5,127434202,medial habenular nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147820289
+252491511058_2_1,121080767,600,5,113220551,superficial layers of olfactory entorhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195964
+252491510991_1_2,121080763,600,5,113220551,superficial layers of olfactory entorhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195753
+252491511089_1_4,127366116,600,5,113220963,SP in granular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/149206196
+252491511476_2_4,147806504,600,5,127426990,stratum pyramidale of rostral CA1,,H376.IIIB.02,/api/v2/well_known_file_download/147820455
+252491511182_2_2,114245697,600,5,12110,outer CP in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059677
+252491511182_2_1,114245695,600,5,12110,outer CP in posteror frontal cortex (motor cortex),,H376.IV.02,/api/v2/well_known_file_download/121059679
+252491511250_2_1,147806576,600,5,127427027,IZ in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820065
+252491511323_2_4,147807448,600,5,127434310,inner SZ in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/147825885
+252491511311_1_4,147807468,600,5,127434339,pontine nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825691
+252491511451_1_3,156438161,600,5,127434335,VZ in dorsomedial parietal cortex (area 7m),,H376.IIIB.02,/api/v2/well_known_file_download/156887141
+252491511228_1_2,147806016,600,5,127426350,MZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819892
+252491511476_1_4,147807698,600,5,127434475,lateral parabrachial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825983
+252491511455_2_2,156437969,600,5,127403458,outer plexiform zone in extrastriate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886660
+252491511145_2_3,121063806,600,5,12886,IZ in caudal cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/149124062
+252491511142_2_3,121063885,600,5,12928,MZ in midlateral extrastriate cortex (area 19),,H376.IV.02,/api/v2/well_known_file_download/149124030
+252491511269_1_1,147803540,600,5,127408950,medial superior olive,,H376.IIIA.02,/api/v2/well_known_file_download/147815662
+252491511080_1_3,127366376,600,5,113221154,outer CP in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206090
+252491511256_1_4,147803641,600,5,127407391,external granular (germinal) layer of upper rhombic lip,,H376.IIIA.02,/api/v2/well_known_file_download/147815458
+252491511176_2_3,121081162,600,5,113220662,inner CP in midcingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149196083
+252491511101_2_4,121081368,600,5,113220709,rostral subdivision of medial nucleus,,H376.IV.03,/api/v2/well_known_file_download/149196011
+252491511455_1_3,156437951,600,5,113221778,VZ in subgenual cingulate neocortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886654
+252491511212_2_2,147803266,600,5,113221778,VZ in subgenual cingulate neocortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815046
+252491511150_1_3,121063657,600,5,12854,inner SZ in inferolateral temporal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124137
+252491511135_1_4,121064007,600,5,12956,SP in dorsomedial extrastriate cortex (V2),,H376.IV.02,/api/v2/well_known_file_download/149123855
+252491510957_1_1,146036847,600,5,113220672,basomedial nucleus (accessory basal nucleus),,H376.IV.03,/api/v2/well_known_file_download/146039605
+252491511154_1_3,121081244,600,5,113220672,basomedial nucleus (accessory basal nucleus),,H376.IV.03,/api/v2/well_known_file_download/149196053
+252491511228_2_3,147806062,600,5,127426430,SP in dysgranular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819902
+252491511186_1_1,114245364,600,5,12016,nucleus of diagonal band,,H376.IV.02,/api/v2/well_known_file_download/121059613
+252491510932_1_3,147804903,600,4.61194029850746,127400636,MZ in caudal perirhinal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817193
+252491511318_1_2,147807883,600,5,127434640,lateral hemisphere of cerebellum,,H376.IIIB.02,/api/v2/well_known_file_download/147825793
+252491510928_2_1,147804621,600,5,13353,outer CP in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817149
+252491511214_2_3,147804010,600,5,127401375,CP in midlateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815080
+252491511274_2_1,147806134,600,5,127426670,central nuclear group,,H376.IIIB.02,/api/v2/well_known_file_download/147820322
+252491511131_1_2,114245343,600,5,12009,VZ in ventrolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059887
+252491510931_1_2,147805216,600,5,127407488,outer CP in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817175
+252491511198_1_2,147805210,600,5,127407488,outer CP in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817399
+252491511138_1_1,121063539,600,5,12819,pyramidal cells of rostral CA4,,H376.IV.02,/api/v2/well_known_file_download/149123969
+252491511170_1_1,114245605,600,5,12069,deep layers of rostral entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059751
+252491511259_1_3,147803258,600,5,113221776,VZ in rostral cingulate neocortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815505
+252491511448_2_2,156438276,600,5,127434731,outer SZ in ventromedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887113
+252491511108_2_4,127366158,600,5,113220998,ventral lateral nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206355
+252491511046_2_1,121079920,600,5,113219359,MZ in rostral cingulate cortex,,H376.IV.03,/api/v2/well_known_file_download/149195861
+252491511211_1_4,147803608,600,5,127407375,IZ in lateral temporal-occipital cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815026
+252491511150_1_1,121063651,600,5,12852,inner SZ in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124133
+252491510813_1_4,147806622,600,5,127433772,parafascicular nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819856
+252491511325_2_4,147806632,600,5,127433776,layer II of caudal entorhinal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820453
+252491511262_2_1,147803906,600,5,127401262,inner CP in posterosuperior (dorsal) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815558
+252491511053_1_3,121080010,600,5,113219488,outer CP in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195892
+252491511275_2_2,147805902,600,5,127409162,olfactory tubercle,,H376.IIIB.02,/api/v2/well_known_file_download/147820340
+252491511227_1_2,147806323,600,5,127426825,reticular nucleus of thalamus,,H376.IIIB.02,/api/v2/well_known_file_download/147819876
+252491511322_2_1,147807889,600,5,127434642,dorsal cochlear nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825863
+252491511167_1_1,114245659,600,5,12087,"substantia nigra, compact part",,H376.IV.02,/api/v2/well_known_file_download/121059759
+252491511318_1_4,147807848,600,5,127434617,dentate (lateral) nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825797
+252491511213_1_4,147804078,600,5,127401208,inferior nucleus of pulvinar,,H376.IIIA.02,/api/v2/well_known_file_download/147815058
+252491510959_1_4,146037028,600,5,12841,parabigeminal nucleus,,H376.IV.02,/api/v2/well_known_file_download/146038914
+252491511088_1_4,127366048,600,5,113248005,zona incerta,,H376.IV.03,/api/v2/well_known_file_download/149206129
+252491510927_2_3,147804921,600,5,127424246,MZ in midlateral extrastriate cortex (area 19),,H376.IIIA.02,/api/v2/well_known_file_download/147817137
+252491511157_2_4,121063452,600,5,12803,stratum oriens of rostral CA1,,H376.IV.02,/api/v2/well_known_file_download/149124243
+252491511155_2_4,121063910,600,5,12935,VZ in midlateral extrastriate cortex (area 19),,H376.IV.02,/api/v2/well_known_file_download/149124213
+252491510812_1_3,147806455,600,5,127426950,CP in rostral hippocampus,,H376.IIIB.02,/api/v2/well_known_file_download/147819838
+252491511172_2_2,114245518,600,5,12097,Intercalated nucleus of amygdala,,H376.IV.02,/api/v2/well_known_file_download/121059713
+252491511098_2_4,127366306,600,5,113221107,IZ in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206327
+252491511153_2_3,121063587,600,5,12831,IZ in primary auditory cortex,,H376.IV.02,/api/v2/well_known_file_download/149124193
+252491511188_2_4,114245388,600,5,12024,VZ in orbital frontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059659
+252491511098_2_3,127366110,600,5,113220961,SP in inferolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206325
+252491511264_2_3,147804215,600,5,113222030,ventromedial hypothalamic nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815594
+252491511186_1_4,114245739,600,5,12126,inner CP in rostral cingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059619
+252491511261_1_4,147804199,600,5,113222026,anteromedial nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147815540
+252491511159_1_2,114245758,600,5,12038,anterior hypothalamic nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059855
+252491511149_1_2,121063684,600,5,12860,inner CP in posteroinferior (ventral) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124117
+252491510931_2_3,147805222,600,5,127407490,inner CP in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817185
+252491511105_1_1,147804885,600,5,113221943,anterior hypothalamic nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147817253
+252491511088_2_2,127366446,600,5,113221389,VZ in caudal cingulate neocortex,,H376.IV.03,/api/v2/well_known_file_download/149206170
+252491511194_1_1,147805018,600,5,127404180,VZ in primary visual cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817333
+252491511100_1_2,121080884,600,5,113220561,SP in perirhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195988
+252491511205_1_4,147805480,600,5,127402907,SP in caudal midinferior temporal cortex (area TF),,H376.IIIA.02,/api/v2/well_known_file_download/147817451
+252491511077_2_1,127365978,600,5,113219480,outer CP in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149205986
+252491511055_1_1,121079970,600,5,113219480,outer CP in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195914
+252491511101_1_2,121080893,600,5,113220575,body of caudate,,H376.IV.03,/api/v2/well_known_file_download/149195999
+252491511320_1_2,147807054,600,5,127426424,outer CP in granular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825825
+252491511282_2_3,147806050,600,5,127426424,outer CP in granular insular cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820397
+252491511161_2_4,121063833,600,5,12908,outer SZ in dorsomedial parietal cortex (area 7m),,H376.IV.02,/api/v2/well_known_file_download/149124261
+252491510991_1_4,121080282,600,5,113220467,rostral migratory stream,,H376.IV.03,/api/v2/well_known_file_download/149195757
+252491510933_1_1,147805264,600,5,127407543,VZ in dorsomedial parietal cortex (area 7m),,H376.IIIA.02,/api/v2/well_known_file_download/147817205
+252491511262_2_2,147803794,600,5,127407509,CP in caudal subicular cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815560
+252491511165_1_3,114245490,600,5,12138,MZ in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059817
+252491511143_1_1,121063839,600,5,12910,SG in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124034
+252491511451_1_4,156438167,600,5,127434341,MZ in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887143
+252491511057_2_2,121079857,600,5,12971,VZ in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195952
+252491511270_1_1,147806401,600,5,127426904,outer CP in (rostral) midinferior temporal cortex (area 36),,H376.IIIB.02,/api/v2/well_known_file_download/147820248
+252491511313_2_1,147807486,600,5,127434345,inner CP in posterior parahippocampal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825725
+252491511099_1_2,121081352,600,5,113220705,medial subdivision of central nucleus,,H376.IV.03,/api/v2/well_known_file_download/149195974
+252491511473_2_3,147807660,600,5,127434465,superficial layers of caudal presubiculum,,H376.IIIB.02,/api/v2/well_known_file_download/147825941
+252491510928_2_4,147805372,600,5,127401330,IZ in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817155
+252491511262_2_3,147803158,600,5,113221857,olfactory tubercle,,H376.IIIA.02,/api/v2/well_known_file_download/147815562
+252491511193_1_4,147805432,600,5,127401367,"substantia nigra, compact part",,H376.IIIA.02,/api/v2/well_known_file_download/147817323
+252491511197_2_4,147805156,600,5,127407815,cerebellar vermis,,H376.IIIA.02,/api/v2/well_known_file_download/147817395
+252491510932_2_3,147805414,600,5,127424209,inner SZ in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817201
+252491511450_1_2,156438204,600,5,127434469,"periaqueductal gray substance, dorsolateral portion",,H376.IIIB.02,/api/v2/well_known_file_download/156887123
+252491511269_2_2,147803890,600,5,127401258,MZ in inferolateral temporal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815672
+252491510952_2_2,147804167,600,5,113222000,IZ in primary somatosensory cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815013
+252491511053_2_2,121079962,600,5,113219478,MZ in ventrolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195898
+252491510991_2_1,121081041,600,5,113220616,arcuate nucleus of hypothalamus,,H376.IV.03,/api/v2/well_known_file_download/149195759
+252491511268_1_1,147802942,600,5,13370,MZ in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815646
+252491511299_2_3,147807042,600,5,127426340,external segment of globus pallidus,,H376.IIIB.02,/api/v2/well_known_file_download/147825649
+252491511163_1_3,121063405,600,5,12074,centromedian nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/149124283
+252491511168_1_4,114245620,600,5,12074,centromedian nucleus of thalamus,,H376.IV.02,/api/v2/well_known_file_download/121059757
+252491511143_2_4,121063864,600,5,12919,SP in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124048
+252491511284_2_2,147805992,600,5,127426342,Dorsal claustrum,,H376.IIIB.02,/api/v2/well_known_file_download/147820427
+252491511184_1_2,114245427,600,5,12031,IZ in granular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059581
+252491511187_2_4,114245361,600,5,12015,lateral septal nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059641
+252491511087_2_3,127366318,600,5,113221111,IZ in superolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206114
+252491511156_1_1,121063461,600,5,12804,stratum pyramidale of rostral CA2,,H376.IV.02,/api/v2/well_known_file_download/149124215
+252491511135_2_4,121064203,600,5,12961,outer SZ in dorsomedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123847
+252491511108_2_3,127366262,600,5,113221080,outer CP in superolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206352
+252491511312_2_3,147808021,600,5,127434727,outer SZ in dorsomedial extrastriate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825713
+252491511312_1_2,147808081,600,5,127434757,spinal trigeminal nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825703
+252491511058_1_4,121079954,600,5,113219476,MZ in dorsolateral prefrontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195962
+252491511165_2_2,114245599,600,5,12067,SP in primary somatosensory cortex,,H376.IV.02,/api/v2/well_known_file_download/121059811
+252491511182_1_4,114245691,600,5,12109,MZ in midcingulate cortex,,H376.IV.02,/api/v2/well_known_file_download/121059681
+252491511170_2_2,114245557,600,5,12148,inner CP in rostral perirhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059741
+252491511316_2_4,147806980,600,5,127409156,core of nucleus accumbens,,H376.IIIB.02,/api/v2/well_known_file_download/147825773
+252491511281_2_1,147806010,600,5,127426346,lateral subdivision of BNST,,H376.IIIB.02,/api/v2/well_known_file_download/147820377
+252491511283_1_4,147806004,600,5,127426346,lateral subdivision of BNST,,H376.IIIB.02,/api/v2/well_known_file_download/147820407
+252491511045_1_1,121081302,600,5,113220693,SP in midinferior temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195837
+252491511174_2_3,121079946,600,5,113219474,MZ in orbital frontal cortex,,H376.IV.03,/api/v2/well_known_file_download/149196069
+252491511186_1_3,114245736,600,5,12125,inner CP in dorsolateral prefrontal cortex,,H376.IV.02,/api/v2/well_known_file_download/121059617
+252491511191_2_2,114245286,600,5,11984,SG in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059929
+252491511330_2_4,147807155,600,5,127426325,rostral subdivision of medial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825911
+252491511322_2_2,147807066,600,5,127426577,outer SZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825865
+252491511230_2_2,147806092,600,5,127426577,outer SZ in primary somatosensory cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820014
+252491511275_2_4,147805794,600,5,127409131,outer SZ in orbital frontal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820344
+252491511200_2_1,114245764,600,5,12042,inner CP in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059943
+252491511148_1_3,121063716,600,5,12869,outer SZ in posterosuperior (dorsal) parietal cortex,,H376.IV.02,/api/v2/well_known_file_download/149124103
+252491511277_1_1,147802902,600,5,13346,SP in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815696
+252491511276_1_2,147802900,600,5,13346,SP in frontal polar cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815680
+252491511130_1_2,121063510,600,5,12811,layer IIIa of caudal entorhinal cortex,,H376.IV.02,/api/v2/well_known_file_download/149123879
+252491511455_2_3,156437975,600,5,127408944,rostral (anterior) extramural migratory stream,,H376.IIIA.02,/api/v2/well_known_file_download/156886662
+252491511452_2_2,156438130,600,5,127426861,SP in posteroinferior (ventral) parietal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/156887163
+252491511259_2_2,147803770,600,5,127408485,raphe obscurus nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815511
+252491511201_2_1,114245808,600,5,11982,outer CP in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059951
+252491511080_1_2,127366256,600,5,113221078,inner CP in primary auditory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206088
+252491511289_1_1,147807788,600,5,127434586,"inferior olive, principal nucleus",,H376.IIIB.02,/api/v2/well_known_file_download/147825557
+252491511261_1_1,147804231,600,5,113222046,dorsomedial hypothalamic nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815534
+252491511168_2_4,114245629,600,5,12077,oculomotor nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059773
+252491511276_2_3,147803126,600,5,113221849,nucleus of diagonal band,,H376.IIIA.02,/api/v2/well_known_file_download/147815692
+252491511106_1_1,147804809,600,5,113221788,head of caudate,,H376.IIIA.02,/api/v2/well_known_file_download/147817269
+252491511143_2_1,121063851,600,5,12915,outer CP in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124042
+252491511472_1_2,147807951,600,5,127434679,inner CP in primary visual cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147825915
+252491511284_1_2,147806740,600,5,127434208,inner CP in caudal cingulate cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147820419
+252491511215_2_4,147804223,600,5,113222032,ventral anterior nucleus of thalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147815101
+252491511184_1_3,114245430,600,5,12032,SG in dysgranular insular cortex,,H376.IV.02,/api/v2/well_known_file_download/121059583
+252491511183_1_2,114245454,600,5,12050,"lateral hypothalamic area, tuberal part",,H376.IV.02,/api/v2/well_known_file_download/121059671
+252491511317_1_1,147806986,600,5,127409160,medial portion of the shell,,H376.IIIB.02,/api/v2/well_known_file_download/147825775
+252491511174_1_4,121080685,600,5,113220529,medial preoptic nucleus,,H376.IV.03,/api/v2/well_known_file_download/149196063
+252491510930_1_3,147805396,600,5,127401198,outer SZ in posteroinferior (ventral) parietal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817161
+252491511052_1_4,121079842,600,5,12969,outer SZ in frontal polar cortex,,H376.IV.03,/api/v2/well_known_file_download/149195877
+252491511202_2_3,147805626,600,3.02774755168662,127408513,arcuate nucleus of hypothalamus,,H376.IIIA.02,/api/v2/well_known_file_download/147817425
+252491511136_1_4,121063936,600,5,12942,inner SZ in ventromedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/149123839
+252491511161_2_1,121063824,600,5,12904,inner CP in dorsomedial parietal cortex (area 7m),,H376.IV.02,/api/v2/well_known_file_download/149124255
+252491511215_2_1,147802982,600,5,13385,outer CP in orbital frontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815094
+252491511046_1_4,121080552,600,5,113220507,layer III of piriform cortex,,H376.IV.03,/api/v2/well_known_file_download/149195859
+252491511451_1_1,156438149,600,5,127434270,stratum pyramidale of caudal CA1,,H376.IIIB.02,/api/v2/well_known_file_download/156887137
+252491511297_2_2,147807361,600,5,127434270,stratum pyramidale of caudal CA1,,H376.IIIB.02,/api/v2/well_known_file_download/147825615
+252491511282_1_1,147806441,600,5,127426942,dorsal subdivision of VLC,,H376.IIIB.02,/api/v2/well_known_file_download/147820385
+252491511175_1_4,127366272,600,5,113221082,inner CP in superolateral temporal cortex,,H376.IV.03,/api/v2/well_known_file_download/149206547
+252491511455_1_1,156437939,600,5,13376,inner SZ in ventrolateral prefrontal cortex,,H376.IIIA.02,/api/v2/well_known_file_download/156886650
+252491510954_2_3,146036883,600,5,113220967,IZ in granular insular cortex,,H376.IV.03,/api/v2/well_known_file_download/146039569
+252491511254_1_3,147806710,600,5,127434198,medial geniculate nuclei,,H376.IIIB.02,/api/v2/well_known_file_download/147820236
+252491511281_2_3,147806704,600,5,127434198,medial geniculate nuclei,,H376.IIIB.02,/api/v2/well_known_file_download/147820381
+252491511182_1_2,114245685,600,5,12107,VZ in midcingulate neocortex,,H376.IV.02,/api/v2/well_known_file_download/121059685
+252491510958_1_2,146037082,600,5,12953,outer CP in dorsomedial extrastriate cortex,,H376.IV.02,/api/v2/well_known_file_download/146038901
+252491511193_2_1,147805192,600,5,127407480,granular layer of caudal dentate gyrus,,H376.IIIA.02,/api/v2/well_known_file_download/147817325
+252491511250_2_2,147805872,600,5,127409137,medial ganglionic eminence,,H376.IIIB.02,/api/v2/well_known_file_download/147820071
+252491511142_2_1,121063879,600,5,12926,VZ in lateral temporal-occipital cortex,,H376.IV.02,/api/v2/well_known_file_download/149124026
+252491510812_1_4,147805986,600,5,127426338,body of caudate,,H376.IIIB.02,/api/v2/well_known_file_download/147819840
+252491511090_2_3,127366242,600,5,113221074,inner CP in primary somatosensory cortex,,H376.IV.03,/api/v2/well_known_file_download/149206242
+252491511265_2_3,147803340,600,5,113221910,layer III of piriform cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147815610
+252491511162_1_2,121064271,600,5,12963,VZ in primary visual cortex,,H376.IV.02,/api/v2/well_known_file_download/149124265
+252491511151_1_1,121063627,600,5,12843,medial nucleus of pulvinar,,H376.IV.02,/api/v2/well_known_file_download/149124149
+252491510933_2_1,147805506,600,5,113221963,basal nucleus of Meynert,,H376.IIIA.02,/api/v2/well_known_file_download/147817213
+252491511290_2_2,147807317,600,5,127434103,ventral tegmental area,,H376.IIIB.02,/api/v2/well_known_file_download/147825583
+252491510930_1_1,147804839,600,5,113221886,ventral claustrum,,H376.IIIA.02,/api/v2/well_known_file_download/147817157
+252491511055_2_4,121080197,600,5,113220457,core of nucleus accumbens,,H376.IV.03,/api/v2/well_known_file_download/149195926
+252491511323_2_1,147807391,600,5,127434294,molecular layer of caudal subiculum,,H376.IIIB.02,/api/v2/well_known_file_download/147825879
+252491511281_2_2,147806692,600,5,127434194,medial nucleus of pulvinar,,H376.IIIB.02,/api/v2/well_known_file_download/147820379
+252491511087_1_2,127366034,600,5,113221019,anteroventral nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206104
+252491511315_1_3,147807255,600,5,127426970,ventral posterior medial nucleus,,H376.IIIB.02,/api/v2/well_known_file_download/147825747
+252491511262_1_3,147803713,600,5,127407817,paravermis of cerebellum,,H376.IIIA.02,/api/v2/well_known_file_download/147815554
+252491511052_2_3,121081400,600,5,113220732,medial intermediate part of entorhinal cortex,,H376.IV.03,/api/v2/well_known_file_download/149195883
+252491511260_2_4,147802878,600,5,13344,medial subdivision of area 10,,H376.IIIA.02,/api/v2/well_known_file_download/147815532
+252491511255_1_1,147803746,600,4.6726618705036,127407827,parasolitary nucleus,,H376.IIIA.02,/api/v2/well_known_file_download/147815436
+252491511108_1_4,127366020,600,5,113247997,anterodorsal nucleus of thalamus,,H376.IV.03,/api/v2/well_known_file_download/149206345
+252491511131_2_3,114245590,600,5,12064,inner SZ in frontal polar cortex,,H376.IV.02,/api/v2/well_known_file_download/121059877
+252491511164_1_1,114245733,600,5,12121,medial mammillary nucleus,,H376.IV.02,/api/v2/well_known_file_download/121059841
+252491511227_1_1,147805980,600,5,127409242,Ventral pallidus,,H376.IIIB.02,/api/v2/well_known_file_download/147819874
+252491510933_1_3,147805560,600,5,113222022,VZ in subcallosal region,,H376.IIIA.02,/api/v2/well_known_file_download/147817209
+252491511105_1_3,147804773,600,5,113221747,SP in subgenual (subcallosal) cingulate cortex,,H376.IIIA.02,/api/v2/well_known_file_download/147817257
+252491511250_1_1,147806514,600,5,127426996,pyramidal cells of rostral CA4,,H376.IIIB.02,/api/v2/well_known_file_download/147820040
+252491511265_1_4,147803459,600,5,127403454,VZ in ventromedial extrastriate cortex (VP),,H376.IIIA.02,/api/v2/well_known_file_download/147815604
+252491510813_1_3,147806548,600,5,127427017,outer CP in superolateral temporal cortex,,H376.IIIB.02,/api/v2/well_known_file_download/147819854
+252491511058_2_4,121080379,600,5,113220491,layer II of piriform cortex,,H376.IV.03,/api/v2/well_known_file_download/149195970

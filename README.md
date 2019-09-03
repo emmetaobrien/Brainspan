@@ -13,6 +13,8 @@ Downloadable archive files containing normalized expression values and meta-data
 |Exon microarray summarized to probe sets|exon_array_matrix_csv.zip|
 |Exon microarray summarized to genes|gene_array_matrix_csv.zip|
 
+White paper describing normalisation procedures: Transcription_Profiling.pdf
+
 ## Prenatal LMD Microarray Dataset
 
 Downloadable archive files containing normalized expression values for each brain and meta-data for analysis:
@@ -23,6 +25,9 @@ Downloadable archive files containing normalized expression values for each brai
 |H376.IIIB.02. female, 16 pcw|lmd_matrix_14751.zip|
 |H376.IV.02, female, 21 pcw|lmd_matrix_12566.zip|
 |H376.IV.03, female, 21 pcw|lmd_matrix_12690.zip|
+
+Locations for downloading raw misroarray data:  LMD_microarray_link_and_tissue_sample_metadata.csv
+
 
 
 ## 3-D Fiber Tract and Developmental Transcriptome Sampling Annotation

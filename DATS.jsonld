@@ -1,0 +1,545 @@
+{ 	"$schema": "https://w3id.org/dats/schema/dataset_schema.json",
+    	"@type": "Dataset",
+	"identifier": {
+		"$schema": "https://w3id.org/dats/schema/identifier_info_schema.json",
+                "@type": "Identifier",
+		"identifier": "https://doi.org/10.5281/zenodo.3385150",
+		"identifierSource": "DOI"
+	},
+	"version": "1.0.0",
+	"privacy": "public open",
+	"licenses": [
+		{
+			"$schema": "https://w3id.org/dats/schema/license_schema.json",
+			"@type": "Licence",
+			"name": "https://alleninstitute.org/legal/terms-use/"
+		}
+	],
+	"creators": [
+		{
+			"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+			"@type": "Organization",
+			"name": "The Allen Institute for Brain Science"
+		}
+	],
+	"types": [
+		{
+			"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+			"@type": "Annotation",
+			"information": {
+				"value": "genomics"
+			}
+		}
+	],
+	"title": "BrainSpan: Atlas of the Developing Human Brain",
+	"description": "This resource describes an anatomically comprehensive atlas of the mid-gestational human brain, including de novo reference atlases, in situ hybridization, ultra-high-resolution magnetic resonance imaging (MRI) and microarray analysis on highly discrete laser-microdissected brain regions.",
+	"storedIn": {
+		"name" : "The Allen Institute for Brain Science"
+	},
+	"primaryPublications" : [
+		{
+            		"$schema": "https://w3id.org/dats/schema/publication_schema.json",
+            		"@type": "Publication",
+			"identifier": {
+				"identifier": "https://doi.org/10.1038/nature13185"
+			},
+			"title": "Transcriptional landscape of the prenatal human brain",
+			"dates": [
+				{
+					"$schema": "https://w3id.org/dats/schema/date_info_schema.json",
+					"@type": "Date",
+					"type": {
+						"value":"Primary reference publication date"
+					},
+					"date": "2014-04-02 00:00:00"
+				}
+			],
+			"authors": [
+				{
+					"$schema": "https://w3id.org/dats/schema/person_schema.json",
+					"@type": "Person",
+				"name":"Jeremy A. Miller, Song-Lin Ding, Susan M. Sunkin, Kimberly A. Smith, Lydia Ng, Aaron Szafer, Amanda Ebbert, Zackery L. Riley, Joshua J. Royall, Kaylynn Aiona, James M. Arnold, Crissa Bennet, Darren Bertagnolli, Krissy Brouner, Stephanie Butler, Shiella Caldejon, Anita Carey, Christine Cuhaciyan, Rachel A. Dalley, Nick Dee, Tim A. Dolbeare, Benjamin A. C. Facer, David Feng, Tim P. Fliss, Garrett Gee, Jeff Goldy, Lindsey Gourley, Benjamin W. Gregor, Guangyu Gu, Robert E. Howard, Jayson M. Jochim, Chihchau L. Kuan, Christopher Lau, Chang-Kyu Lee, Felix Lee, Tracy A. Lemon, Phil Lesnar, Bergen McMurray, Naveed Mastan, Nerick Mosqueda, Theresa Naluai-Cecchini, Nhan-Kiet Ngo, Julie Nyhus, Aaron Oldre, Eric Olson, Jody Parente, Patrick D. Parker, Sheana E. Parry, Allison Stevens, Mihovil Pletikos, Melissa Reding, Kate Roll, David Sandman, Melaine Sarreal, Sheila Shapouri, Nadiya V. Shapovalova, Elaine H. Shen, Nathan Sjoquist, Clifford R. Slaughterbeck, Michael Smith, Andy J. Sodt, Derric Williams, Lilla Zöllei, Bruce Fischl, Mark B. Gerstein, Daniel H. Geschwind, Ian A. Glass, Michael J. Hawrylycz, Robert F. Hevner, Hao Huang, Allan R. Jones, James A. Knowles, Pat Levitt, John W. Phillips, Nenad Šestan, Paul Wohnoutka, Chinh Dang, Amy Bernard, John G. Hohmann & Ed S. Lein"
+				}
+			]
+		}
+	],
+	"isAbout": [
+		{
+			"$schema": "https://w3id.org/dats/schema/biological_entity_schema.json",
+			"@type": "BiologicalEntity",
+			"identifier": {
+		                "$schema": "https://w3id.org/dats/schema/identifier_info_schema.json",
+                		"@type": "Identifier",
+				"identifier": "9606",
+				"identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+			},
+			"name":"Homo sapiens"
+		}
+	],
+	"dates": [
+		{
+			"$schema": "https://w3id.org/dats/schema/date_info_schema.json",
+			"@type": "Date",
+			"type": {
+				"value":"CONP DATS JSON fileset creation date"
+			},
+			"date": "2019-08-22 13:13:46"
+		}
+	],
+	"keywords": [
+		{
+			"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+			"@type": "Annotation",
+			"value" : "genomics"
+		}
+	],
+	"hasPart": [
+		{
+			"title":"RNA-Seq Gencode v10 summarized to exons",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "developmental transcriptome"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/267666524",
+				"description": "Zipped .csv file"
+			}
+		},
+		{
+			"title":"RNA-Seq Gencode v10 summarized to genes",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "developmental transcriptome"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/267666525",
+				"description": "Zipped .csv file"
+			}
+		},
+		{
+			"title":"Exon microarray summarized to probe sets",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "developmental transcriptome"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/267666526",
+				"description": "Zipped .csv file"
+			}
+		},
+		{
+			"title":"Exon microarray summarized to genes",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "developmental transcriptome"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/267666527",
+				"description": "Zipped .csv file"
+			}
+		},
+		{
+			"title":"H376.IIIA.02, male, 15 pcw",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "prenatal LMD microarray"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/278442900",
+				"description": "Zipped .csv and .txt files"
+			}
+		},
+		{
+			"title":"H376.IIIB.02, female, 16 pcw",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "prenatal LMD microarray"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/278444085",
+				"description": "Zipped .csv and .txt files"
+			}
+		},
+		{
+			"title":"H376.IV.02, female, 21 pcw",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "prenatal LMD microarray"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/278444090",
+				"description": "Zipped .csv and .txt files"
+			}
+		},
+		{
+			"title":"14 pcw annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780755",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"17 pcw annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780794",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"19 pcw annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780811",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"37 pcw annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780825",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"3 yrs annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780835",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"8 yrs annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780878",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"15 yrs annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780893",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"32 yrs annotation: fiber tracts",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780920",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"14 pcw annotation: structures",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780757",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"17 pcw annotation: structures",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780796",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"19 pcw annotation: structures",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780813",
+				"description": "Zipped .vtk files"
+			}
+		},
+		{
+			"title":"37 pcw annotation: structures",
+			"creators": [
+				{
+					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@type": "Organization",
+					"name": "The Allen Institute for Brain Science"
+				}
+			],
+			"types": [
+				{
+					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@type": "Annotation",
+					"information": {
+						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
+					}
+				}
+			],
+			"storedIn": {
+				"name": "http://brainspan.org/api/v2/well_known_file_download/157780827",
+				"description": "Zipped .vtk files"
+			}
+		}
+	],
+	"extraProperties": [
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		}
+	]
+}

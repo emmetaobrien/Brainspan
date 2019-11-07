@@ -1,7 +1,7 @@
-{ 	"$schema": "https://w3id.org/dats/schema/dataset_schema.json",
+{ 	"@context": "https://w3id.org/dats/schema/dataset_schema.json",
     	"@type": "Dataset",
 	"identifier": {
-		"$schema": "https://w3id.org/dats/schema/identifier_info_schema.json",
+		"@id": "https://w3id.org/dats/schema/identifier_info_schema.json",
                 "@type": "Identifier",
 		"identifier": "https://doi.org/10.5281/zenodo.3385150",
 		"identifierSource": "DOI"
@@ -10,21 +10,21 @@
 	"privacy": "public open",
 	"licenses": [
 		{
-			"$schema": "https://w3id.org/dats/schema/license_schema.json",
+			"@id": "https://w3id.org/dats/schema/license_schema.json",
 			"@type": "Licence",
 			"name": "https://alleninstitute.org/legal/terms-use/"
 		}
 	],
 	"creators": [
 		{
-			"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+			"@id": "https://w3id.org/dats/schema/organization_schema.json",
 			"@type": "Organization",
 			"name": "The Allen Institute for Brain Science"
 		}
 	],
 	"types": [
 		{
-			"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+			"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 			"@type": "Annotation",
 			"information": {
 				"value": "genomics"
@@ -38,7 +38,7 @@
 	},
 	"primaryPublications" : [
 		{
-            		"$schema": "https://w3id.org/dats/schema/publication_schema.json",
+            		"@id": "https://w3id.org/dats/schema/publication_schema.json",
             		"@type": "Publication",
 			"identifier": {
 				"identifier": "https://doi.org/10.1038/nature13185"
@@ -46,7 +46,7 @@
 			"title": "Transcriptional landscape of the prenatal human brain",
 			"dates": [
 				{
-					"$schema": "https://w3id.org/dats/schema/date_info_schema.json",
+					"@id": "https://w3id.org/dats/schema/date_info_schema.json",
 					"@type": "Date",
 					"type": {
 						"value":"Primary reference publication date"
@@ -56,7 +56,7 @@
 			],
 			"authors": [
 				{
-					"$schema": "https://w3id.org/dats/schema/person_schema.json",
+					"@id": "https://w3id.org/dats/schema/person_schema.json",
 					"@type": "Person",
 				"name":"Jeremy A. Miller, Song-Lin Ding, Susan M. Sunkin, Kimberly A. Smith, Lydia Ng, Aaron Szafer, Amanda Ebbert, Zackery L. Riley, Joshua J. Royall, Kaylynn Aiona, James M. Arnold, Crissa Bennet, Darren Bertagnolli, Krissy Brouner, Stephanie Butler, Shiella Caldejon, Anita Carey, Christine Cuhaciyan, Rachel A. Dalley, Nick Dee, Tim A. Dolbeare, Benjamin A. C. Facer, David Feng, Tim P. Fliss, Garrett Gee, Jeff Goldy, Lindsey Gourley, Benjamin W. Gregor, Guangyu Gu, Robert E. Howard, Jayson M. Jochim, Chihchau L. Kuan, Christopher Lau, Chang-Kyu Lee, Felix Lee, Tracy A. Lemon, Phil Lesnar, Bergen McMurray, Naveed Mastan, Nerick Mosqueda, Theresa Naluai-Cecchini, Nhan-Kiet Ngo, Julie Nyhus, Aaron Oldre, Eric Olson, Jody Parente, Patrick D. Parker, Sheana E. Parry, Allison Stevens, Mihovil Pletikos, Melissa Reding, Kate Roll, David Sandman, Melaine Sarreal, Sheila Shapouri, Nadiya V. Shapovalova, Elaine H. Shen, Nathan Sjoquist, Clifford R. Slaughterbeck, Michael Smith, Andy J. Sodt, Derric Williams, Lilla Zöllei, Bruce Fischl, Mark B. Gerstein, Daniel H. Geschwind, Ian A. Glass, Michael J. Hawrylycz, Robert F. Hevner, Hao Huang, Allan R. Jones, James A. Knowles, Pat Levitt, John W. Phillips, Nenad Šestan, Paul Wohnoutka, Chinh Dang, Amy Bernard, John G. Hohmann & Ed S. Lein"
 				}
@@ -65,10 +65,10 @@
 	],
 	"isAbout": [
 		{
-			"$schema": "https://w3id.org/dats/schema/biological_entity_schema.json",
+			"@id": "https://w3id.org/dats/schema/biological_entity_schema.json",
 			"@type": "BiologicalEntity",
 			"identifier": {
-		                "$schema": "https://w3id.org/dats/schema/identifier_info_schema.json",
+		                "@id": "https://w3id.org/dats/schema/identifier_info_schema.json",
                 		"@type": "Identifier",
 				"identifier": "9606",
 				"identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
@@ -78,7 +78,7 @@
 	],
 	"dates": [
 		{
-			"$schema": "https://w3id.org/dats/schema/date_info_schema.json",
+			"@id": "https://w3id.org/dats/schema/date_info_schema.json",
 			"@type": "Date",
 			"type": {
 				"value":"CONP DATS JSON fileset creation date"
@@ -88,7 +88,7 @@
 	],
 	"keywords": [
 		{
-			"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+			"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 			"@type": "Annotation",
 			"value" : "genomics"
 		}
@@ -98,14 +98,14 @@
 			"title":"RNA-Seq Gencode v10 summarized to exons",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
@@ -121,14 +121,14 @@
 			"title":"RNA-Seq Gencode v10 summarized to genes",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
@@ -144,14 +144,14 @@
 			"title":"Exon microarray summarized to probe sets",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
@@ -167,14 +167,14 @@
 			"title":"Exon microarray summarized to genes",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
@@ -190,14 +190,14 @@
 			"title":"H376.IIIA.02, male, 15 pcw",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
@@ -213,14 +213,14 @@
 			"title":"H376.IIIB.02, female, 16 pcw",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
@@ -236,14 +236,14 @@
 			"title":"H376.IV.02, female, 21 pcw",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
@@ -259,14 +259,14 @@
 			"title":"14 pcw annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -282,14 +282,14 @@
 			"title":"17 pcw annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -305,14 +305,14 @@
 			"title":"19 pcw annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -328,14 +328,14 @@
 			"title":"37 pcw annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -351,14 +351,14 @@
 			"title":"3 yrs annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -374,14 +374,14 @@
 			"title":"8 yrs annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -397,14 +397,14 @@
 			"title":"15 yrs annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -420,14 +420,14 @@
 			"title":"32 yrs annotation: fiber tracts",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -443,14 +443,14 @@
 			"title":"14 pcw annotation: structures",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -466,14 +466,14 @@
 			"title":"17 pcw annotation: structures",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -489,14 +489,14 @@
 			"title":"19 pcw annotation: structures",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
@@ -512,14 +512,14 @@
 			"title":"37 pcw annotation: structures",
 			"creators": [
 				{
-					"$schema": "https://w3id.org/dats/schema/organization_schema.json",
+					"@id": "https://w3id.org/dats/schema/organization_schema.json",
 					"@type": "Organization",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"$schema": "https://w3id.org/dats/schema/annotation_schema.json",
+					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
 					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"

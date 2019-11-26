@@ -1,33 +1,35 @@
-{ 	
-	"@context": {
-		"sdo": "https://schema.org/",
-		"Dataset": "sdo:Dataset",
-		"title": {
-      			"@id": "sdo:name",
-      			"@type": "sdo:Text"
-    		},
-    		"description": {
-      			"@id": "sdo:description",
-      			"@type": "sdo:Text"
-    		},
-    		"distributions": {
-		      "@id": "sdo:distribution",
-		      "@type": "sdo:DataDownload"
-	 	},
-	    	"primaryPublications": "sdo:citation",
-    		"citations": "sdo:citation",
-	    	"producedBy": "sdo:producer",
-    		"creators": "sdo:creator",
-	    	"licenses": "sdo:license",
-    		"isAbout": "sdo:about",
-	    	"hasPart": "sdo:hasPart",
-    		"acknowledges": "sdo:funder",
-	    	"keywords": "sdo:keywords"
-	},
-	"@type": "Dataset",
+{
+	"@context": 
+		[ 
+			{
+				"sdo": "https://schema.org/",
+				"Dataset": "sdo:Dataset",
+				"title": {
+					"@id": "sdo:name",
+					"@type": "sdo:Text"
+				},
+				"description": {
+					"@id": "sdo:description",
+					"@type": "sdo:Text"
+				},
+				"distributions": {
+					"@id": "sdo:distribution",
+					"@type": "sdo:DataDownload"
+				},
+				"primaryPublications": "sdo:citation",
+				"citations": "sdo:citation",
+				"producedBy": "sdo:producer",
+				"creators": "sdo:creator",
+				"licenses": "sdo:license",
+				"isAbout": "sdo:about",
+				"hasPart": "sdo:hasPart",
+				"acknowledges": "sdo:funder",
+				"keywords": "sdo:keywords",
+				"dates": "sdo:date",
+				"storedIn": "sdo:url"
+			}
+		],
 	"identifier": {
-		"@id": "https://w3id.org/dats/schema/identifier_info_schema.json",
-                "@type": "Identifier",
 		"identifier": "https://doi.org/10.5281/zenodo.3385150",
 		"identifierSource": "DOI"
 	},
@@ -36,21 +38,19 @@
 	"licenses": [
 		{
 			"@id": "https://w3id.org/dats/schema/license_schema.json",
-			"@type": "License",
+			"@type": "Licence",
 			"name": "https://alleninstitute.org/legal/terms-use/"
 		}
 	],
 	"creators": [
 		{
 			"@id": "https://w3id.org/dats/schema/organization_schema.json",
-			"@type": "Organization",
+			"@type": "creators",
 			"name": "The Allen Institute for Brain Science"
 		}
 	],
 	"types": [
 		{
-			"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-			"@type": "Annotation",
 			"information": {
 				"value": "genomics"
 			}
@@ -63,8 +63,6 @@
 	},
 	"primaryPublications" : [
 		{
-            		"@id": "https://w3id.org/dats/schema/publication_schema.json",
-            		"@type": "Publication",
 			"identifier": {
 				"identifier": "https://doi.org/10.1038/nature13185"
 			},
@@ -74,6 +72,8 @@
 					"@id": "https://w3id.org/dats/schema/date_info_schema.json",
 					"@type": "Date",
 					"type": {
+						"@id": "https://w3id.org/dats/schema/annotation_schema.json",
+						"@type": "Annotation",
 						"value":"Primary reference publication date"
 					},
 					"date": "2014-04-02 00:00:00"
@@ -93,8 +93,6 @@
 			"@id": "https://w3id.org/dats/schema/biological_entity_schema.json",
 			"@type": "BiologicalEntity",
 			"identifier": {
-		                "@id": "https://w3id.org/dats/schema/identifier_info_schema.json",
-                		"@type": "Identifier",
 				"identifier": "9606",
 				"identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
 			},
@@ -106,6 +104,8 @@
 			"@id": "https://w3id.org/dats/schema/date_info_schema.json",
 			"@type": "Date",
 			"type": {
+				"@id": "https://w3id.org/dats/schema/annotation_schema.json",
+				"@type": "Annotation",
 				"value":"CONP DATS JSON fileset creation date"
 			},
 			"date": "2019-08-22 13:13:46"
@@ -124,14 +124,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
 					}
@@ -147,14 +145,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
 					}
@@ -170,14 +166,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
 					}
@@ -193,14 +187,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "developmental transcriptome"
 					}
@@ -216,14 +208,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
 					}
@@ -239,14 +229,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
 					}
@@ -262,14 +250,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "prenatal LMD microarray"
 					}
@@ -285,14 +271,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -308,14 +292,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -331,14 +313,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -354,14 +334,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -377,14 +355,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -400,14 +376,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -423,14 +397,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -446,14 +418,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -469,14 +439,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -492,14 +460,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -515,14 +481,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}
@@ -538,14 +502,12 @@
 			"creators": [
 				{
 					"@id": "https://w3id.org/dats/schema/organization_schema.json",
-					"@type": "Organization",
+					"@type": "creators",
 					"name": "The Allen Institute for Brain Science"
 				}
 			],
 			"types": [
 				{
-					"@id": "https://w3id.org/dats/schema/annotation_schema.json",
-					"@type": "Annotation",
 					"information": {
 						"value": "3-D Fiber Tract and Developmental Transcriptome Sampling Annotation"
 					}

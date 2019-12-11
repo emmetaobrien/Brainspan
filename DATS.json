@@ -65,6 +65,20 @@
 			"date": "2019-08-22 13:13:46"
 		}
 	],
+	"distributions": [
+	        {
+			"formats": [
+				"csv"
+            		],
+			"size" : "1.74",
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "http://www.brainspan.org/static/download.html"
+			}
+		}
+	],
 	"keywords": [
 		{
 			"value" : "genomics"
@@ -439,6 +453,30 @@
 			"values": [
 				{
 					"value": "Jennifer Tremblay-Mercier, Research Co-ordinator, jennifer.tremblay-mercier@douglas.mcgill.ca, 514-761-6131 #3329"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "26"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "4"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
 				}
 			]
 		}

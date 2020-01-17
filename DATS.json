@@ -457,6 +457,14 @@
 			]
 		},
 		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "external"
+				}
+			]
+		},
+		{
 			"category": "files",
 			"values": [
 				{
@@ -465,7 +473,7 @@
 			]
 		},
 		{
-			"category": "files",
+			"category": "subjects",
 			"values": [
 				{
 					"value": "4"
